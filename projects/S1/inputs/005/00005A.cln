@@ -1,0 +1,57 @@
+<version>
+  1 19 
+</version>
+<cleanupCamera>
+  <cameraSize>
+    12.1667 8.61111 
+  </cameraSize>
+  <cameraRes>
+    1752 1240 
+  </cameraRes>
+  <cameraXPrevalence>
+    1 
+  </cameraXPrevalence>
+  <interestRect>
+    0 0 -1 -1 
+  </interestRect>
+  </cleanupCamera>
+<cleanupPalette>
+  <version>
+    71 0 
+  </version>
+  <styles>
+    <style>
+      color_0 3 255 255 255 0 
+    </style>
+    <style>
+      color_1 2002 0 0 0 255 0 0 0 255 0 39 70 10 
+    </style>
+    <style>
+      color 2001 255 0 0 255 255 0 0 255 0 50 120 90 
+    </style>
+    <style>
+      color 2001 208 231 238 255 0 0 239 255 0 50 120 90 
+    </style>
+    </styles>
+  <stylepages>
+    <page>
+      <name>
+        colors 
+      </name>
+      <indices>
+        0 1 2 3 
+      </indices>
+      </page>
+    </stylepages>
+  <shortcuts>
+    0 1 -1 -1 -1 -1 -1 -1 -1 -1 
+  </shortcuts>
+  </cleanupPalette>
+<lineProcessing autoAdjust="0" mode="color" sharpness="90.000000"/>
+<despeckling value="2"/>
+<aaValue value="70"/>
+<closestField value="10.000000"/>
+<fdg name="fld_10_4mm_acme"/>
+<path>
+  0005A 
+</path>

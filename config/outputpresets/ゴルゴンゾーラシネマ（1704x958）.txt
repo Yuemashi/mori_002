@@ -1,0 +1,92 @@
+<outputsettingspreset>
+  <camera>
+    <cameraSize>
+      11.36 6.38667 
+    </cameraSize>
+    <cameraRes>
+      1704 958 
+    </cameraRes>
+    <cameraXPrevalence>
+      1 
+    </cameraXPrevalence>
+    <interestRect>
+      0 0 -1 -1 
+    </interestRect>
+    </camera>
+  <format>
+    avi 
+  </format>
+  <formatsProperties>
+    <formatProperties ext="avi">
+      <property name="Codec" type="enum" value="Uncompressed">
+        <item value="Uncompressed"/>
+        <item value="MS-CRAM \'32\' Microsoft Video 1"/>
+        <item value="Lagarith \'32\' Lagarith Lossless Codec"/>
+        <item value="x264vfw \'32\' x264vfw - H.264/MPEG-4 AVC codec"/>
+        <item value="XVID \'32\' Xvid MPEG-4 Codec"/>
+        <item value="MS-CRAM \'24\' Microsoft Video 1"/>
+        <item value="Lagarith \'24\' Lagarith Lossless Codec"/>
+        <item value="x264vfw \'24\' x264vfw - H.264/MPEG-4 AVC codec"/>
+        <item value="XVID \'24\' Xvid MPEG-4 Codec"/>
+        </property>
+      </formatProperties>
+    <formatProperties ext="tif">
+      <property name="Byte Ordering" type="enum" value="IBM PC">
+        <item value="IBM PC"/>
+        <item value="Mac"/>
+        </property>
+      <property name="Compression Type" type="enum" value="Lempel-Ziv & Welch encoding">
+        <item value="Lempel-Ziv & Welch encoding"/>
+        <item value="None"/>
+        <item value="Macintosh Run-length encoding"/>
+        <item value="ThunderScan Run-length encoding"/>
+        <item value="CCITT Group 3 fax encoding"/>
+        <item value="CCITT Group 4 fax encoding"/>
+        <item value="CCITT modified Huffman Run-length encoding"/>
+        <item value="JPEG compression"/>
+        <item value="JPEG compression 6.0"/>
+        <item value="SGILog"/>
+        <item value="SGILog24"/>
+        <item value="8"/>
+        <item value="zip"/>
+        <item value="Unknown"/>
+        </property>
+      <property name="Bits Per Pixel" type="enum" value="32(RGBM)">
+        <item value="24(RGB)"/>
+        <item value="48(RGB)"/>
+        <item value=" 1(BW)"/>
+        <item value=" 8(GREYTONES)"/>
+        <item value="32(RGBM)"/>
+        <item value="64(RGBM)"/>
+        </property>
+      <property name="Orientation" type="enum" value="Top Left">
+        <item value="Top Left"/>
+        <item value="Top Right"/>
+        <item value="Bottom Right"/>
+        <item value="Bottom Left"/>
+        <item value="Left Top"/>
+        <item value="Right Top"/>
+        <item value="Right Bottom"/>
+        <item value="Left Bottom"/>
+        </property>
+      </formatProperties>
+    </formatsProperties>
+  <resquality>
+    "標準"
+  </resquality>
+  <bpp>
+    "8 ビット"
+  </bpp>
+  <frameRate>
+    24 
+  </frameRate>
+  <stretchFrom>
+    25 
+  </stretchFrom>
+  <stretchTo>
+    25 
+  </stretchTo>
+  <gamma>
+    1 
+  </gamma>
+  </outputsettingspreset>

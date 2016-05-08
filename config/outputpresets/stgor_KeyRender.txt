@@ -1,0 +1,86 @@
+<outputsettingspreset>
+  <camera>
+    <cameraSize>
+      11.36 6.38667 
+    </cameraSize>
+    <cameraRes>
+      1704 958 
+    </cameraRes>
+    <cameraXPrevalence>
+      1 
+    </cameraXPrevalence>
+    <interestRect>
+      0 0 -1 -1 
+    </interestRect>
+    </camera>
+  <format>
+    mov 
+  </format>
+  <formatsProperties>
+    <formatProperties ext="mov">
+      <property name="1986618469 1 4" type="string" value=""/>
+      <property name="1936749676 1 0" type="string" value="106 112 101 103 z 5 32 z 2 2 0 "/>
+      <property name="1667656807 1 0" type="string" value="0 68 "/>
+      <property name="1668052340 1 0" type="string" value=""/>
+      <property name="1986359923 1 0" type="string" value="0 3 0 28 0 1 z 2 "/>
+      </formatProperties>
+    <formatProperties ext="tif">
+      <property name="Byte Ordering" type="enum" value="IBM PC">
+        <item value="IBM PC"/>
+        <item value="Mac"/>
+        </property>
+      <property name="Compression Type" type="enum" value="Lempel-Ziv & Welch encoding">
+        <item value="Lempel-Ziv & Welch encoding"/>
+        <item value="None"/>
+        <item value="Macintosh Run-length encoding"/>
+        <item value="ThunderScan Run-length encoding"/>
+        <item value="CCITT Group 3 fax encoding"/>
+        <item value="CCITT Group 4 fax encoding"/>
+        <item value="CCITT modified Huffman Run-length encoding"/>
+        <item value="JPEG compression"/>
+        <item value="JPEG compression 6.0"/>
+        <item value="SGILog"/>
+        <item value="SGILog24"/>
+        <item value="8"/>
+        <item value="zip"/>
+        <item value="Unknown"/>
+        </property>
+      <property name="Bits Per Pixel" type="enum" value="32(RGBM)">
+        <item value="24(RGB)"/>
+        <item value="48(RGB)"/>
+        <item value=" 1(BW)"/>
+        <item value=" 8(GREYTONES)"/>
+        <item value="32(RGBM)"/>
+        <item value="64(RGBM)"/>
+        </property>
+      <property name="Orientation" type="enum" value="Top Left">
+        <item value="Top Left"/>
+        <item value="Top Right"/>
+        <item value="Bottom Right"/>
+        <item value="Bottom Left"/>
+        <item value="Left Top"/>
+        <item value="Right Top"/>
+        <item value="Right Bottom"/>
+        <item value="Left Bottom"/>
+        </property>
+      </formatProperties>
+    </formatsProperties>
+  <resquality>
+    "標準"
+  </resquality>
+  <bpp>
+    "8 ビット"
+  </bpp>
+  <frameRate>
+    24 
+  </frameRate>
+  <stretchFrom>
+    25 
+  </stretchFrom>
+  <stretchTo>
+    25 
+  </stretchTo>
+  <gamma>
+    1 
+  </gamma>
+  </outputsettingspreset>

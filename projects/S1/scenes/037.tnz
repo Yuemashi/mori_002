@@ -1,0 +1,4966 @@
+<tnz framecount="408" version="71.0">
+  <generator>
+    "OpenToonz 1.0"
+  </generator>
+  <properties>
+    <cameras>
+      <camera>
+        <cameraSize>
+          11.36 6.38667 
+        </cameraSize>
+        <cameraRes>
+          1704 958 
+        </cameraRes>
+        <cameraXPrevalence>
+          1 
+        </cameraXPrevalence>
+        <interestRect>
+          0 0 -1 -1 
+        </interestRect>
+        </camera>
+      </cameras>
+    <outputs>
+      <output name="main">
+        <range>
+          0 -1 
+        </range>
+        <step>
+          1 
+        </step>
+        <shrink>
+          1 
+        </shrink>
+        <applyShrinkToViewer>
+          0 
+        </applyShrinkToViewer>
+        <fps>
+          24 
+        </fps>
+        <path>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\outputs\\原撮.avi"
+        </path>
+        <bpp>
+          32 
+        </bpp>
+        <multimedia>
+          0 
+        </multimedia>
+        <threadsIndex>
+          2 
+        </threadsIndex>
+        <maxTileSizeIndex>
+          0 
+        </maxTileSizeIndex>
+        <subcameraPrev>
+          0 
+        </subcameraPrev>
+        <stereoscopic>
+          0 0.05 
+        </stereoscopic>
+        <resquality>
+          0 
+        </resquality>
+        <fieldprevalence>
+          0 
+        </fieldprevalence>
+        <gamma>
+          1 
+        </gamma>
+        <timestretch>
+          25 25 
+        </timestretch>
+        <formatsProperties>
+          <formatProperties ext="">
+            </formatProperties>
+          <formatProperties ext="avi">
+            <property name="Codec" type="enum" value="Uncompressed">
+              <item value="Uncompressed"/>
+              <item value="MS-CRAM \'32\' Microsoft Video 1"/>
+              <item value="MS-CRAM \'24\' Microsoft Video 1"/>
+              </property>
+            </formatProperties>
+          <formatProperties ext="mov">
+            <property name="1986618469 1 4" type="string" value=""/>
+            <property name="1936749676 1 0" type="string" value="106 112 101 103 z 5 32 z 2 2 0 "/>
+            <property name="1667656807 1 0" type="string" value="0 68 "/>
+            <property name="1668052340 1 0" type="string" value=""/>
+            <property name="1986359923 1 0" type="string" value="0 3 0 28 0 1 z 2 "/>
+            </formatProperties>
+          <formatProperties ext="tif">
+            <property name="Byte Ordering" type="enum" value="IBM PC">
+              <item value="IBM PC"/>
+              <item value="Mac"/>
+              </property>
+            <property name="Compression Type" type="enum" value="Lempel-Ziv & Welch encoding">
+              <item value="Lempel-Ziv & Welch encoding"/>
+              <item value="None"/>
+              <item value="Macintosh Run-length encoding"/>
+              <item value="ThunderScan Run-length encoding"/>
+              <item value="CCITT Group 3 fax encoding"/>
+              <item value="CCITT Group 4 fax encoding"/>
+              <item value="CCITT modified Huffman Run-length encoding"/>
+              <item value="JPEG compression"/>
+              <item value="JPEG compression 6.0"/>
+              <item value="SGILog"/>
+              <item value="SGILog24"/>
+              <item value="8"/>
+              <item value="zip"/>
+              <item value="Unknown"/>
+              </property>
+            <property name="Bits Per Pixel" type="enum" value="32(RGBM)">
+              <item value="24(RGB)"/>
+              <item value="48(RGB)"/>
+              <item value=" 1(BW)"/>
+              <item value=" 8(GREYTONES)"/>
+              <item value="32(RGBM)"/>
+              <item value="64(RGBM)"/>
+              </property>
+            <property name="Orientation" type="enum" value="Top Left">
+              <item value="Top Left"/>
+              <item value="Top Right"/>
+              <item value="Bottom Right"/>
+              <item value="Bottom Left"/>
+              <item value="Left Top"/>
+              <item value="Right Top"/>
+              <item value="Right Bottom"/>
+              <item value="Left Bottom"/>
+              </property>
+            </formatProperties>
+          </formatsProperties>
+        </output>
+      <output name="preview">
+        <range>
+          0 0 
+        </range>
+        <step>
+          1 
+        </step>
+        <shrink>
+          1 
+        </shrink>
+        <applyShrinkToViewer>
+          0 
+        </applyShrinkToViewer>
+        <fps>
+          24 
+        </fps>
+        <path>
+          "+outputs\\.tif"
+        </path>
+        <bpp>
+          32 
+        </bpp>
+        <multimedia>
+          0 
+        </multimedia>
+        <threadsIndex>
+          2 
+        </threadsIndex>
+        <maxTileSizeIndex>
+          0 
+        </maxTileSizeIndex>
+        <subcameraPrev>
+          0 
+        </subcameraPrev>
+        <stereoscopic>
+          0 0.05 
+        </stereoscopic>
+        <resquality>
+          0 
+        </resquality>
+        <fieldprevalence>
+          0 
+        </fieldprevalence>
+        <gamma>
+          1 
+        </gamma>
+        <timestretch>
+          25 25 
+        </timestretch>
+        <formatsProperties>
+          <formatProperties ext="tif">
+            <property name="Byte Ordering" type="enum" value="IBM PC">
+              <item value="IBM PC"/>
+              <item value="Mac"/>
+              </property>
+            <property name="Compression Type" type="enum" value="Lempel-Ziv & Welch encoding">
+              <item value="Lempel-Ziv & Welch encoding"/>
+              <item value="None"/>
+              <item value="Macintosh Run-length encoding"/>
+              <item value="ThunderScan Run-length encoding"/>
+              <item value="CCITT Group 3 fax encoding"/>
+              <item value="CCITT Group 4 fax encoding"/>
+              <item value="CCITT modified Huffman Run-length encoding"/>
+              <item value="JPEG compression"/>
+              <item value="JPEG compression 6.0"/>
+              <item value="SGILog"/>
+              <item value="SGILog24"/>
+              <item value="8"/>
+              <item value="zip"/>
+              <item value="Unknown"/>
+              </property>
+            <property name="Bits Per Pixel" type="enum" value="32(RGBM)">
+              <item value="24(RGB)"/>
+              <item value="48(RGB)"/>
+              <item value=" 1(BW)"/>
+              <item value=" 8(GREYTONES)"/>
+              <item value="32(RGBM)"/>
+              <item value="64(RGBM)"/>
+              </property>
+            <property name="Orientation" type="enum" value="Top Left">
+              <item value="Top Left"/>
+              <item value="Top Right"/>
+              <item value="Bottom Right"/>
+              <item value="Bottom Left"/>
+              <item value="Left Top"/>
+              <item value="Right Top"/>
+              <item value="Right Bottom"/>
+              <item value="Left Bottom"/>
+              </property>
+            </formatProperties>
+          </formatsProperties>
+        </output>
+      </outputs>
+    <cleanupParameters>
+      <cleanupCamera>
+        <cameraSize>
+          11.68 8.26667 
+        </cameraSize>
+        <cameraRes>
+          1752 1240 
+        </cameraRes>
+        <cameraXPrevalence>
+          1 
+        </cameraXPrevalence>
+        <interestRect>
+          0 0 -1 -1 
+        </interestRect>
+        </cleanupCamera>
+      <cleanupPalette>
+        <version>
+          71 0 
+        </version>
+        <styles>
+          <style>
+            color_0 3 255 255 255 0 
+          </style>
+          <style>
+            color_1 2002 0 0 0 255 0 0 0 255 0 50 70 25 
+          </style>
+          <style>
+            color 2001 255 0 0 255 255 0 0 255 0 50 120 90 
+          </style>
+          <style>
+            color 2001 0 0 255 255 0 0 255 255 0 50 99 82 
+          </style>
+          <style>
+            color 2001 255 0 0 255 255 0 0 255 0 50 60 90 
+          </style>
+          </styles>
+        <stylepages>
+          <page>
+            <name>
+              colors 
+            </name>
+            <indices>
+              0 1 2 3 
+            </indices>
+            </page>
+          </stylepages>
+        <shortcuts>
+          0 1 -1 -1 -1 -1 -1 -1 -1 -1 
+        </shortcuts>
+        </cleanupPalette>
+      <transform rotate="270"/>
+      <lineProcessing autoAdjust="0" mode="color" sharpness="90.000000"/>
+      <noAntialias/>
+      <MLAA/>
+      <despeckling value="2"/>
+      <aaValue value="70"/>
+      <closestField value="10.000000"/>
+      <fdg name="fld_10_4mm_acme"/>
+      <path>
+        "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\035"
+      </path>
+      </cleanupParameters>
+    <scanParameters>
+      <paper fmt=""/>
+      </scanParameters>
+    <vectorizerParameters>
+      <version>
+        71 0 
+      </version>
+      <outline>
+        0 
+      </outline>
+      <visibilityBits>
+        -1 
+      </visibilityBits>
+      <Centerline>
+        <threshold>
+          8 
+        </threshold>
+        <accuracy>
+          9 
+        </accuracy>
+        <despeckling>
+          5 
+        </despeckling>
+        <maxThickness>
+          200 
+        </maxThickness>
+        <thicknessRatioFirst>
+          100 
+        </thicknessRatioFirst>
+        <thicknessRatioLast>
+          100 
+        </thicknessRatioLast>
+        <makeFrame>
+          0 
+        </makeFrame>
+        <paintFill>
+          0 
+        </paintFill>
+        <naaSource>
+          0 
+        </naaSource>
+        </Centerline>
+      <Outline>
+        <despeckling>
+          4 
+        </despeckling>
+        <accuracy>
+          8 
+        </accuracy>
+        <adherence>
+          50 
+        </adherence>
+        <angle>
+          45 
+        </angle>
+        <relative>
+          25 
+        </relative>
+        <maxColors>
+          50 
+        </maxColors>
+        <toneThreshold>
+          128 
+        </toneThreshold>
+        <transparentColor>
+          255 255 255 255 
+        </transparentColor>
+        <paintFill>
+          0 
+        </paintFill>
+        </Outline>
+      </vectorizerParameters>
+    <bgColor>
+      255 255 255 0 
+    </bgColor>
+    <markers>
+      6 0 
+    </markers>
+    <subsampling>
+      1 1 
+    </subsampling>
+    <fieldguide>
+      12 1.38 
+    </fieldguide>
+    <noteColors>
+      255 235 140 255 255 160 120 255 255 180 190 255 135 205 250 255 145 240 145 255 130 255 210 255 150 245 255 255 
+    </noteColors>
+    </properties>
+  <levelSet>
+    <levels>
+      <level id='1'>
+        "LO用紙ビスタサイズ(150DPI)"
+        <info dpix="150.000000" dpiy="150.000000"/>
+        <path>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\LO用紙ビスタサイズ(150DPI).png"
+        </path>
+        
+      </level>
+      <level id='2'>
+        BG 
+        <info dpix="150.000000" dpiy="150.000000"/>
+        <path>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\027\\BG.jpg"
+        </path>
+        
+      </level>
+      <level id='3'>
+        BOOKA 
+        <info dpix="150.000000" dpiy="150.000000" whiteTransp="1"/>
+        <path>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\027\\BOOKA.jpg"
+        </path>
+        
+      </level>
+      <level id='4'>
+        BOOKB 
+        <info dpix="150.000000" dpiy="150.000000" whiteTransp="1"/>
+        <path>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\027\\BOOKB.jpg"
+        </path>
+        
+      </level>
+      <level id='5'>
+        KeyA 
+        <info dpix="150.000000" dpiy="150.000000" whiteTransp="1"/>
+        <path>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\037\\KeyA..jpg"
+        </path>
+        
+      </level>
+      <level id='6'>
+        KeyB 
+        <info dpix="150.000000" dpiy="150.000000" whiteTransp="1"/>
+        <path>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\037\\KeyB..jpg"
+        </path>
+        
+      </level>
+      <level id='7'>
+        KeyE 
+        <info dpix="150.000000" dpiy="150.000000" whiteTransp="1"/>
+        <path>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\037\\KeyE..jpg"
+        </path>
+        
+      </level>
+      <level id='8'>
+        Key 
+        <info dpix="150.000000" dpiy="150.000000"/>
+        <path>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\037\\Key..jpg"
+        </path>
+        
+      </level>
+      <level id='9'>
+        KeyC 
+        <info dpix="150.000000" dpiy="150.000000" whiteTransp="1"/>
+        <path>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\037\\KeyC..jpg"
+        </path>
+        
+      </level>
+      <level id='10'>
+        BG_1 
+        <info dpix="150.000000" dpiy="150.000000"/>
+        <path>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\extras\\027\\BG.png"
+        </path>
+        
+      </level>
+      <level id='11'>
+        BookA 
+        <info dpix="150.000000" dpiy="150.000000" whiteTransp="1"/>
+        <path>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\extras\\027\\BookA.png"
+        </path>
+        
+      </level>
+      <level id='12'>
+        InbetA 
+        <info dpiType="image"/>
+        <path>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\037\\InbetA.tlv"
+        </path>
+        <scannedPath>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\037\\InbetA..jpg"
+        </scannedPath>
+        
+      </level>
+      <level id='13'>
+        InbetB 
+        <info dpiType="image"/>
+        <path>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\037\\InbetB.tlv"
+        </path>
+        <scannedPath>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\037\\InbetB..jpg"
+        </scannedPath>
+        
+      </level>
+      <level id='14'>
+        InbetC 
+        <info dpix="150.000000" dpiy="150.000000"/>
+        <path>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\037\\InbetC.tlv"
+        </path>
+        <scannedPath>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\037\\InbetC..jpg"
+        </scannedPath>
+        
+      </level>
+      <level id='15'>
+        InbetD 
+        <info dpix="150.000000" dpiy="150.000000"/>
+        <path>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\037\\InbetD.tlv"
+        </path>
+        <scannedPath>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\037\\InbetD..jpg"
+        </scannedPath>
+        
+      </level>
+      <level id='16'>
+        InbetE 
+        <info dpix="175.200000" dpiy="175.200000"/>
+        <path>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\037\\InbetE.tlv"
+        </path>
+        <scannedPath>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\037\\InbetE..jpg"
+        </scannedPath>
+        
+      </level>
+      <level id='17'>
+        G003 
+        <info dpix="300.000000" dpiy="300.000000"/>
+        <path>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\extras\\effects\\G003.png"
+        </path>
+        
+      </level>
+      <level id='18'>
+        KeyA_1 
+        <info dpix="150.000000" dpiy="150.000000" whiteTransp="1"/>
+        <path>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\035\\KeyA..jpg"
+        </path>
+        
+      </level>
+      <level id='19'>
+        KeyB_1 
+        <info dpix="150.000000" dpiy="150.000000" whiteTransp="1"/>
+        <path>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\035\\KeyB..jpg"
+        </path>
+        
+      </level>
+      <level id='20'>
+        KeyC_1 
+        <info dpix="150.000000" dpiy="150.000000" whiteTransp="1"/>
+        <path>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\035\\KeyC..jpg"
+        </path>
+        
+      </level>
+      <level id='21'>
+        KeyE_1 
+        <info dpix="150.000000" dpiy="150.000000" whiteTransp="1"/>
+        <path>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\035\\KeyE..jpg"
+        </path>
+        
+      </level>
+      <level id='22'>
+        KeyD 
+        <info dpix="150.000000" dpiy="150.000000" whiteTransp="1"/>
+        <path>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\035\\KeyD..jpg"
+        </path>
+        
+      </level>
+      <level id='23'>
+        InbetA_1 
+        <info dpix="175.200000" dpiy="175.200000"/>
+        <path>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\035\\InbetA.tlv"
+        </path>
+        <scannedPath>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\035\\InbetA..jpg"
+        </scannedPath>
+        
+      </level>
+      <level id='24'>
+        InbetB_1 
+        <info dpix="175.200000" dpiy="175.200000"/>
+        <path>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\035\\InbetB.tlv"
+        </path>
+        <scannedPath>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\035\\InbetB..jpg"
+        </scannedPath>
+        
+      </level>
+      <level id='25'>
+        InbetC_1 
+        <info dpix="150.000000" dpiy="150.000000"/>
+        <path>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\035\\InbetC.tlv"
+        </path>
+        <scannedPath>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\035\\InbetC..jpg"
+        </scannedPath>
+        
+      </level>
+      <level id='26'>
+        InbetD_1 
+        <info dpix="175.200000" dpiy="175.200000"/>
+        <path>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\035\\InbetD.tlv"
+        </path>
+        <scannedPath>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\035\\InbetD..jpg"
+        </scannedPath>
+        
+      </level>
+      <level id='27'>
+        InbetE_1 
+        <info dpix="150.000000" dpiy="150.000000"/>
+        <path>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\035\\InbetE.tlv"
+        </path>
+        <scannedPath>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\035\\InbetE..jpg"
+        </scannedPath>
+        
+      </level>
+      <level id='28'>
+        ExA 
+        <info dpix="175.200000" dpiy="175.200000"/>
+        <path>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\035\\ExA.tlv"
+        </path>
+        <scannedPath>
+          "Z:\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\035\\ExA..jpg"
+        </scannedPath>
+        
+      </level>
+      <level id='29'>
+        ExB 
+        <info dpix="175.200000" dpiy="175.200000"/>
+        <path>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\035\\ExB.tlv"
+        </path>
+        <scannedPath>
+          "Z:\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\035\\ExB..jpg"
+        </scannedPath>
+        
+      </level>
+      <level id='30'>
+        ExC 
+        <info dpix="175.200000" dpiy="175.200000"/>
+        <path>
+          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\035\\ExC.tlv"
+        </path>
+        <scannedPath>
+          "Z:\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\035\\ExC..jpg"
+        </scannedPath>
+        
+      </level>
+      <childLevel id='31'>
+        <xsheet id='32'>
+          
+          <columns>
+            <levelColumn id='33'>
+              
+              <status>
+                3 
+              </status>
+              <cells>
+                <cell>
+                  0 408 <level id='2'/>"-"0 
+                </cell>
+                </cells>
+              <fx>
+                <Toonz_columnFx id='34'>
+                  
+                  <params>
+                    </params>
+                  <ports>
+                    </ports>
+                  <dagNodePos>
+                    25000 25000 
+                  </dagNodePos>
+                  <numberId>
+                    0 
+                  </numberId>
+                  <name>
+                    LevelColumn 
+                  </name>
+                  <fxId>
+                    "" 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </Toonz_columnFx>
+                
+              </fx>
+              
+            </levelColumn>
+            <levelColumn id='35'>
+              
+              <status>
+                3 
+              </status>
+              <cells>
+                <cell>
+                  0 408 <level id='4'/>"-"0 
+                </cell>
+                </cells>
+              <fx>
+                <Toonz_columnFx id='36'>
+                  
+                  <params>
+                    </params>
+                  <ports>
+                    </ports>
+                  <dagNodePos>
+                    25000 24950 
+                  </dagNodePos>
+                  <numberId>
+                    0 
+                  </numberId>
+                  <name>
+                    LevelColumn 
+                  </name>
+                  <fxId>
+                    "" 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </Toonz_columnFx>
+                
+              </fx>
+              
+            </levelColumn>
+            <levelColumn id='37'>
+              
+              <status>
+                3 
+              </status>
+              <cells>
+                <cell>
+                  0 408 <level id='21'/>0003 0 
+                </cell>
+                </cells>
+              <fx>
+                <Toonz_columnFx id='38'>
+                  
+                  <params>
+                    </params>
+                  <ports>
+                    </ports>
+                  <dagNodePos>
+                    25000 24900 
+                  </dagNodePos>
+                  <numberId>
+                    0 
+                  </numberId>
+                  <name>
+                    LevelColumn 
+                  </name>
+                  <fxId>
+                    "" 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </Toonz_columnFx>
+                
+              </fx>
+              
+            </levelColumn>
+            <levelColumn id='39'>
+              
+              <status>
+                3 
+              </status>
+              <cells>
+                <cell>
+                  0 203 <level id='19'/>0001 0 
+                </cell>
+                <cell>
+                  203 205 <level id='19'/>0002 0 
+                </cell>
+                </cells>
+              <fx>
+                <Toonz_columnFx id='40'>
+                  
+                  <params>
+                    </params>
+                  <ports>
+                    </ports>
+                  <dagNodePos>
+                    25000 24850 
+                  </dagNodePos>
+                  <numberId>
+                    0 
+                  </numberId>
+                  <name>
+                    LevelColumn 
+                  </name>
+                  <fxId>
+                    "" 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </Toonz_columnFx>
+                
+              </fx>
+              
+            </levelColumn>
+            <levelColumn id='41'>
+              
+              <status>
+                3 
+              </status>
+              <cells>
+                <cell>
+                  0 203 <level id='20'/>0001 0 
+                </cell>
+                <cell>
+                  203 2 <level id='20'/>0002 0 
+                </cell>
+                <cell>
+                  205 203 <level id='20'/>0003 0 
+                </cell>
+                </cells>
+              <fx>
+                <Toonz_columnFx id='42'>
+                  
+                  <params>
+                    </params>
+                  <ports>
+                    </ports>
+                  <dagNodePos>
+                    25000 24800 
+                  </dagNodePos>
+                  <numberId>
+                    0 
+                  </numberId>
+                  <name>
+                    LevelColumn 
+                  </name>
+                  <fxId>
+                    "" 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </Toonz_columnFx>
+                
+              </fx>
+              
+            </levelColumn>
+            <levelColumn id='43'>
+              
+              <status>
+                3 
+              </status>
+              <cells>
+                <cell>
+                  0 203 <level id='22'/>0002 0 
+                </cell>
+                <cell>
+                  203 3 <level id='22'/>0001 1 
+                </cell>
+                <cell>
+                  206 140 <level id='22'/>0003 0 
+                </cell>
+                <cell>
+                  346 2 <level id='22'/>0001 0 
+                </cell>
+                <cell>
+                  348 15 <level id='22'/>0003 0 
+                </cell>
+                <cell>
+                  363 2 <level id='22'/>0001 0 
+                </cell>
+                <cell>
+                  365 43 <level id='22'/>0003 0 
+                </cell>
+                </cells>
+              <fx>
+                <Toonz_columnFx id='44'>
+                  
+                  <params>
+                    </params>
+                  <ports>
+                    </ports>
+                  <dagNodePos>
+                    25000 24750 
+                  </dagNodePos>
+                  <numberId>
+                    0 
+                  </numberId>
+                  <name>
+                    LevelColumn 
+                  </name>
+                  <fxId>
+                    "" 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </Toonz_columnFx>
+                
+              </fx>
+              
+            </levelColumn>
+            <levelColumn id='45'>
+              
+              <status>
+                3 
+              </status>
+              <cells>
+                <cell>
+                  0 408 <level id='3'/>"-"0 
+                </cell>
+                </cells>
+              <fx>
+                <Toonz_columnFx id='46'>
+                  
+                  <params>
+                    </params>
+                  <ports>
+                    </ports>
+                  <dagNodePos>
+                    25000 24700 
+                  </dagNodePos>
+                  <numberId>
+                    0 
+                  </numberId>
+                  <name>
+                    LevelColumn 
+                  </name>
+                  <fxId>
+                    "" 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </Toonz_columnFx>
+                
+              </fx>
+              
+            </levelColumn>
+            <levelColumn id='47'>
+              
+              <status>
+                3 
+              </status>
+              <cells>
+                <cell>
+                  0 408 <level id='18'/>0001 0 
+                </cell>
+                </cells>
+              <fx>
+                <Toonz_columnFx id='48'>
+                  
+                  <params>
+                    </params>
+                  <ports>
+                    </ports>
+                  <dagNodePos>
+                    25000 24650 
+                  </dagNodePos>
+                  <numberId>
+                    0 
+                  </numberId>
+                  <name>
+                    LevelColumn 
+                  </name>
+                  <fxId>
+                    "" 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </Toonz_columnFx>
+                
+              </fx>
+              
+            </levelColumn>
+            <levelColumn id='49'>
+              
+              <status>
+                0 
+              </status>
+              <fx>
+                <Toonz_columnFx id='50'>
+                  
+                  <params>
+                    </params>
+                  <ports>
+                    </ports>
+                  <numberId>
+                    0 
+                  </numberId>
+                  <name>
+                    LevelColumn 
+                  </name>
+                  <fxId>
+                    "" 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </Toonz_columnFx>
+                
+              </fx>
+              
+            </levelColumn>
+            <levelColumn id='51'>
+              
+              <status>
+                0 
+              </status>
+              <cells>
+                <cell>
+                  0 408 <level id='10'/>"-"0 
+                </cell>
+                </cells>
+              <fx>
+                <Toonz_columnFx id='52'>
+                  
+                  <params>
+                    </params>
+                  <ports>
+                    </ports>
+                  <dagNodePos>
+                    25000 24600 
+                  </dagNodePos>
+                  <numberId>
+                    0 
+                  </numberId>
+                  <name>
+                    LevelColumn 
+                  </name>
+                  <fxId>
+                    "" 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </Toonz_columnFx>
+                
+              </fx>
+              
+            </levelColumn>
+            <levelColumn id='53'>
+              
+              <status>
+                0 
+              </status>
+              <cells>
+                <cell>
+                  0 408 <level id='27'/>0001 0 
+                </cell>
+                </cells>
+              <fx>
+                <Toonz_columnFx id='54'>
+                  
+                  <params>
+                    </params>
+                  <ports>
+                    </ports>
+                  <dagNodePos>
+                    25000 24550 
+                  </dagNodePos>
+                  <numberId>
+                    0 
+                  </numberId>
+                  <name>
+                    LevelColumn 
+                  </name>
+                  <fxId>
+                    "" 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </Toonz_columnFx>
+                
+              </fx>
+              
+            </levelColumn>
+            <levelColumn id='55'>
+              
+              <status>
+                0 
+              </status>
+              <cells>
+                <cell>
+                  0 408 <level id='30'/>0001 0 
+                </cell>
+                </cells>
+              <fx>
+                <Toonz_columnFx id='56'>
+                  
+                  <params>
+                    </params>
+                  <ports>
+                    </ports>
+                  <dagNodePos>
+                    25000 24500 
+                  </dagNodePos>
+                  <numberId>
+                    0 
+                  </numberId>
+                  <name>
+                    LevelColumn 
+                  </name>
+                  <fxId>
+                    "" 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </Toonz_columnFx>
+                
+              </fx>
+              
+            </levelColumn>
+            <levelColumn id='57'>
+              
+              <status>
+                0 
+              </status>
+              <cells>
+                <cell>
+                  0 408 <level id='29'/>0001 0 
+                </cell>
+                </cells>
+              <fx>
+                <Toonz_columnFx id='58'>
+                  
+                  <params>
+                    </params>
+                  <ports>
+                    </ports>
+                  <dagNodePos>
+                    25000 24450 
+                  </dagNodePos>
+                  <numberId>
+                    0 
+                  </numberId>
+                  <name>
+                    LevelColumn 
+                  </name>
+                  <fxId>
+                    "" 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </Toonz_columnFx>
+                
+              </fx>
+              
+            </levelColumn>
+            <levelColumn id='59'>
+              
+              <status>
+                0 
+              </status>
+              <cells>
+                <cell>
+                  0 408 <level id='24'/>0001 0 
+                </cell>
+                </cells>
+              <fx>
+                <Toonz_columnFx id='60'>
+                  
+                  <params>
+                    </params>
+                  <ports>
+                    </ports>
+                  <dagNodePos>
+                    25000 24400 
+                  </dagNodePos>
+                  <numberId>
+                    0 
+                  </numberId>
+                  <name>
+                    LevelColumn 
+                  </name>
+                  <fxId>
+                    "" 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </Toonz_columnFx>
+                
+              </fx>
+              
+            </levelColumn>
+            <levelColumn id='61'>
+              
+              <status>
+                0 
+              </status>
+              <cells>
+                <cell>
+                  0 203 <level id='25'/>0001 0 
+                </cell>
+                <cell>
+                  203 2 <level id='25'/>0002 0 
+                </cell>
+                <cell>
+                  205 203 <level id='25'/>0003 0 
+                </cell>
+                </cells>
+              <fx>
+                <Toonz_columnFx id='62'>
+                  
+                  <params>
+                    </params>
+                  <ports>
+                    </ports>
+                  <dagNodePos>
+                    25000 24350 
+                  </dagNodePos>
+                  <numberId>
+                    0 
+                  </numberId>
+                  <name>
+                    LevelColumn 
+                  </name>
+                  <fxId>
+                    "" 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </Toonz_columnFx>
+                
+              </fx>
+              
+            </levelColumn>
+            <levelColumn id='63'>
+              
+              <status>
+                0 
+              </status>
+              <cells>
+                <cell>
+                  0 203 <level id='26'/>0002 0 
+                </cell>
+                <cell>
+                  203 3 <level id='26'/>0001 1 
+                </cell>
+                <cell>
+                  206 135 <level id='26'/>0003 0 
+                </cell>
+                <cell>
+                  341 2 <level id='26'/>0001 0 
+                </cell>
+                <cell>
+                  343 24 <level id='26'/>0003 0 
+                </cell>
+                <cell>
+                  367 3 <level id='26'/>0002 0 
+                </cell>
+                <cell>
+                  370 11 <level id='26'/>0001 0 
+                </cell>
+                <cell>
+                  381 3 <level id='26'/>0003 0 
+                </cell>
+                <cell>
+                  384 3 <level id='26'/>0002 0 
+                </cell>
+                <cell>
+                  387 3 <level id='26'/>0003 0 
+                </cell>
+                <cell>
+                  390 3 <level id='26'/>0002 0 
+                </cell>
+                <cell>
+                  393 15 <level id='26'/>0003 0 
+                </cell>
+                </cells>
+              <fx>
+                <Toonz_columnFx id='64'>
+                  
+                  <params>
+                    </params>
+                  <ports>
+                    </ports>
+                  <dagNodePos>
+                    25000 24300 
+                  </dagNodePos>
+                  <numberId>
+                    0 
+                  </numberId>
+                  <name>
+                    LevelColumn 
+                  </name>
+                  <fxId>
+                    "" 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </Toonz_columnFx>
+                
+              </fx>
+              
+            </levelColumn>
+            <levelColumn id='65'>
+              
+              <status>
+                0 
+              </status>
+              <cells>
+                <cell>
+                  0 408 <level id='11'/>"-"0 
+                </cell>
+                </cells>
+              <fx>
+                <Toonz_columnFx id='66'>
+                  
+                  <params>
+                    </params>
+                  <ports>
+                    </ports>
+                  <dagNodePos>
+                    25000 24250 
+                  </dagNodePos>
+                  <numberId>
+                    0 
+                  </numberId>
+                  <name>
+                    LevelColumn 
+                  </name>
+                  <fxId>
+                    "" 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </Toonz_columnFx>
+                
+              </fx>
+              
+            </levelColumn>
+            <levelColumn id='67'>
+              
+              <status>
+                0 
+              </status>
+              <cells>
+                <cell>
+                  0 408 <level id='23'/>0001 0 
+                </cell>
+                </cells>
+              <fx>
+                <Toonz_columnFx id='68'>
+                  
+                  <params>
+                    </params>
+                  <ports>
+                    </ports>
+                  <dagNodePos>
+                    25000 24200 
+                  </dagNodePos>
+                  <numberId>
+                    0 
+                  </numberId>
+                  <name>
+                    LevelColumn 
+                  </name>
+                  <fxId>
+                    "" 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </Toonz_columnFx>
+                
+              </fx>
+              
+            </levelColumn>
+            <levelColumn id='69'>
+              
+              <status>
+                0 
+              </status>
+              <cells>
+                <cell>
+                  0 408 <level id='28'/>0001 0 
+                </cell>
+                </cells>
+              <fx>
+                <Toonz_columnFx id='70'>
+                  
+                  <params>
+                    </params>
+                  <ports>
+                    </ports>
+                  <dagNodePos>
+                    25000 24150 
+                  </dagNodePos>
+                  <numberId>
+                    0 
+                  </numberId>
+                  <name>
+                    LevelColumn 
+                  </name>
+                  <fxId>
+                    "" 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </Toonz_columnFx>
+                
+              </fx>
+              
+            </levelColumn>
+            <levelColumn id='71'>
+              
+              <status>
+                1 
+              </status>
+              <cells>
+                <cell>
+                  0 408 <level id='17'/>"-"0 
+                </cell>
+                </cells>
+              <fx>
+                <Toonz_columnFx id='72'>
+                  
+                  <params>
+                    </params>
+                  <ports>
+                    </ports>
+                  <dagNodePos>
+                    25000 24100 
+                  </dagNodePos>
+                  <numberId>
+                    0 
+                  </numberId>
+                  <name>
+                    LevelColumn 
+                  </name>
+                  <fxId>
+                    "" 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </Toonz_columnFx>
+                
+              </fx>
+              
+            </levelColumn>
+            <levelColumn id='73'>
+              
+              <status>
+                3 
+              </status>
+              <cells>
+                <cell>
+                  0 1 <level id='1'/>"-"0 
+                </cell>
+                </cells>
+              <fx>
+                <Toonz_columnFx id='74'>
+                  
+                  <params>
+                    </params>
+                  <ports>
+                    </ports>
+                  <dagNodePos>
+                    25000 24050 
+                  </dagNodePos>
+                  <numberId>
+                    0 
+                  </numberId>
+                  <name>
+                    LevelColumn 
+                  </name>
+                  <fxId>
+                    "" 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </Toonz_columnFx>
+                
+              </fx>
+              
+            </levelColumn>
+            
+          </columns>
+          <pegbars>
+            <pegbar activeboth="yes" id="Camera1">
+              <parent handle="B" id="None" parentHandle="B">
+                </parent>
+              <isOpened>
+                0 
+              </isOpened>
+              <center>
+                0 0 0 0 
+              </center>
+              <status>
+                0 
+              </status>
+              <x>
+                <default>
+                  0 
+                </default>
+                <keyframes>
+                  <L>
+                    0 0 
+                  </L>
+                  </keyframes>
+                </x>
+              <y>
+                <default>
+                  0 
+                </default>
+                <keyframes>
+                  <L>
+                    0 -0.588664 
+                  </L>
+                  </keyframes>
+                </y>
+              <sx>
+                <default>
+                  1 
+                </default>
+                </sx>
+              <sy>
+                <default>
+                  1 
+                </default>
+                </sy>
+              <sc>
+                <default>
+                  1 
+                </default>
+                </sc>
+              <nodePos>
+                24500 25550 
+              </nodePos>
+              <camera>
+                <cameraSize>
+                  11.36 6.38667 
+                </cameraSize>
+                <cameraRes>
+                  1704 958 
+                </cameraRes>
+                <cameraXPrevalence>
+                  1 
+                </cameraXPrevalence>
+                <interestRect>
+                  0 0 -1 -1 
+                </interestRect>
+                </camera>
+              </pegbar>
+            <pegbar id="Table">
+              <parent handle="B" id="None" parentHandle="B">
+                </parent>
+              <isOpened>
+                0 
+              </isOpened>
+              <center>
+                0 0 0 0 
+              </center>
+              <status>
+                0 
+              </status>
+              <sx>
+                <default>
+                  1 
+                </default>
+                </sx>
+              <sy>
+                <default>
+                  1 
+                </default>
+                </sy>
+              <sc>
+                <default>
+                  1 
+                </default>
+                </sc>
+              <nodePos>
+                24500 25500 
+              </nodePos>
+              </pegbar>
+            <pegbar id="Col1">
+              <parent handle="B" id="Table" parentHandle="B">
+                </parent>
+              <isOpened>
+                0 
+              </isOpened>
+              <center>
+                0 0 0 0 
+              </center>
+              <status>
+                0 
+              </status>
+              <sx>
+                <default>
+                  1 
+                </default>
+                </sx>
+              <sy>
+                <default>
+                  1 
+                </default>
+                </sy>
+              <sc>
+                <default>
+                  1 
+                </default>
+                </sc>
+              <nodePos>
+                24620 25450 
+              </nodePos>
+              </pegbar>
+            <pegbar id="Col2">
+              <parent handle="B" id="Table" parentHandle="B">
+                </parent>
+              <isOpened>
+                0 
+              </isOpened>
+              <center>
+                0 0 0 0 
+              </center>
+              <status>
+                0 
+              </status>
+              <sx>
+                <default>
+                  1 
+                </default>
+                </sx>
+              <sy>
+                <default>
+                  1 
+                </default>
+                </sy>
+              <sc>
+                <default>
+                  1 
+                </default>
+                </sc>
+              <nodePos>
+                24620 25350 
+              </nodePos>
+              </pegbar>
+            <pegbar id="Col3">
+              <parent handle="B" id="Table" parentHandle="B">
+                </parent>
+              <isOpened>
+                0 
+              </isOpened>
+              <center>
+                0 0 0 0 
+              </center>
+              <status>
+                0 
+              </status>
+              <sx>
+                <default>
+                  1 
+                </default>
+                </sx>
+              <sy>
+                <default>
+                  1 
+                </default>
+                </sy>
+              <sc>
+                <default>
+                  1 
+                </default>
+                </sc>
+              <nodePos>
+                24620 25200 
+              </nodePos>
+              </pegbar>
+            <pegbar id="Col4">
+              <parent handle="B" id="Table" parentHandle="B">
+                </parent>
+              <isOpened>
+                0 
+              </isOpened>
+              <center>
+                0 0 0 0 
+              </center>
+              <status>
+                0 
+              </status>
+              <sx>
+                <default>
+                  1 
+                </default>
+                </sx>
+              <sy>
+                <default>
+                  1 
+                </default>
+                </sy>
+              <sc>
+                <default>
+                  1 
+                </default>
+                </sc>
+              <nodePos>
+                24620 25250 
+              </nodePos>
+              </pegbar>
+            <pegbar id="Col5">
+              <parent handle="B" id="Table" parentHandle="B">
+                </parent>
+              <isOpened>
+                0 
+              </isOpened>
+              <center>
+                0 0 0 0 
+              </center>
+              <status>
+                0 
+              </status>
+              <sx>
+                <default>
+                  1 
+                </default>
+                </sx>
+              <sy>
+                <default>
+                  1 
+                </default>
+                </sy>
+              <sc>
+                <default>
+                  1 
+                </default>
+                </sc>
+              <nodePos>
+                24620 25150 
+              </nodePos>
+              </pegbar>
+            <pegbar id="Col6">
+              <parent handle="B" id="Col4" parentHandle="B">
+                </parent>
+              <isOpened>
+                0 
+              </isOpened>
+              <center>
+                0 0 0 0 
+              </center>
+              <status>
+                0 
+              </status>
+              <sx>
+                <default>
+                  1 
+                </default>
+                </sx>
+              <sy>
+                <default>
+                  1 
+                </default>
+                </sy>
+              <sc>
+                <default>
+                  1 
+                </default>
+                </sc>
+              <nodePos>
+                24954.8 25256.7 
+              </nodePos>
+              </pegbar>
+            <pegbar id="Col7">
+              <parent handle="B" id="Table" parentHandle="B">
+                </parent>
+              <isOpened>
+                0 
+              </isOpened>
+              <center>
+                0 0 0 0 
+              </center>
+              <status>
+                0 
+              </status>
+              <sx>
+                <default>
+                  1 
+                </default>
+                </sx>
+              <sy>
+                <default>
+                  1 
+                </default>
+                </sy>
+              <sc>
+                <default>
+                  1 
+                </default>
+                </sc>
+              <nodePos>
+                24620 25400 
+              </nodePos>
+              </pegbar>
+            <pegbar id="Col8">
+              <parent handle="B" id="Table" parentHandle="B">
+                </parent>
+              <isOpened>
+                0 
+              </isOpened>
+              <center>
+                0 0 0 0 
+              </center>
+              <status>
+                0 
+              </status>
+              <sx>
+                <default>
+                  1 
+                </default>
+                </sx>
+              <sy>
+                <default>
+                  1 
+                </default>
+                </sy>
+              <sc>
+                <default>
+                  1 
+                </default>
+                </sc>
+              <nodePos>
+                24620 25300 
+              </nodePos>
+              </pegbar>
+            <pegbar id="Col9">
+              <parent handle="B" id="Table" parentHandle="B">
+                </parent>
+              <isOpened>
+                0 
+              </isOpened>
+              <center>
+                0 0 0 0 
+              </center>
+              <status>
+                0 
+              </status>
+              <sx>
+                <default>
+                  1 
+                </default>
+                </sx>
+              <sy>
+                <default>
+                  1 
+                </default>
+                </sy>
+              <sc>
+                <default>
+                  1 
+                </default>
+                </sc>
+              <nodePos>
+                1.234e+009 5.678e+009 
+              </nodePos>
+              </pegbar>
+            <pegbar id="Col10">
+              <parent handle="B" id="Table" parentHandle="B">
+                </parent>
+              <isOpened>
+                0 
+              </isOpened>
+              <center>
+                0 0 0 0 
+              </center>
+              <status>
+                0 
+              </status>
+              <sx>
+                <default>
+                  1 
+                </default>
+                </sx>
+              <sy>
+                <default>
+                  1 
+                </default>
+                </sy>
+              <sc>
+                <default>
+                  1 
+                </default>
+                </sc>
+              <nodePos>
+                24620 25100 
+              </nodePos>
+              </pegbar>
+            <pegbar id="Col11">
+              <parent handle="B" id="Table" parentHandle="B">
+                </parent>
+              <isOpened>
+                0 
+              </isOpened>
+              <center>
+                0 0 0 0 
+              </center>
+              <status>
+                0 
+              </status>
+              <sx>
+                <default>
+                  1 
+                </default>
+                </sx>
+              <sy>
+                <default>
+                  1 
+                </default>
+                </sy>
+              <sc>
+                <default>
+                  1 
+                </default>
+                </sc>
+              <nodePos>
+                24620 25000 
+              </nodePos>
+              </pegbar>
+            <pegbar id="Col12">
+              <parent handle="B" id="Table" parentHandle="B">
+                </parent>
+              <isOpened>
+                0 
+              </isOpened>
+              <center>
+                0 0 0 0 
+              </center>
+              <status>
+                0 
+              </status>
+              <sx>
+                <default>
+                  1 
+                </default>
+                </sx>
+              <sy>
+                <default>
+                  1 
+                </default>
+                </sy>
+              <sc>
+                <default>
+                  1 
+                </default>
+                </sc>
+              <nodePos>
+                24620 24600 
+              </nodePos>
+              </pegbar>
+            <pegbar id="Col13">
+              <parent handle="B" id="Table" parentHandle="B">
+                </parent>
+              <isOpened>
+                0 
+              </isOpened>
+              <center>
+                0 0 0 0 
+              </center>
+              <status>
+                0 
+              </status>
+              <sx>
+                <default>
+                  1 
+                </default>
+                </sx>
+              <sy>
+                <default>
+                  1 
+                </default>
+                </sy>
+              <sc>
+                <default>
+                  1 
+                </default>
+                </sc>
+              <nodePos>
+                24620 24650 
+              </nodePos>
+              </pegbar>
+            <pegbar id="Col14">
+              <parent handle="B" id="Table" parentHandle="B">
+                </parent>
+              <isOpened>
+                0 
+              </isOpened>
+              <center>
+                0 0 0 0 
+              </center>
+              <status>
+                0 
+              </status>
+              <sx>
+                <default>
+                  1 
+                </default>
+                </sx>
+              <sy>
+                <default>
+                  1 
+                </default>
+                </sy>
+              <sc>
+                <default>
+                  1 
+                </default>
+                </sc>
+              <nodePos>
+                24620 24950 
+              </nodePos>
+              </pegbar>
+            <pegbar id="Col15">
+              <parent handle="B" id="Table" parentHandle="B">
+                </parent>
+              <isOpened>
+                0 
+              </isOpened>
+              <center>
+                0 0 0 0 
+              </center>
+              <status>
+                0 
+              </status>
+              <x>
+                <default>
+                  0 
+                </default>
+                <keyframes>
+                  <L>
+                    204 0 
+                  </L>
+                  <L>
+                    <prev>
+                      -0.01 
+                    </prev>
+                    205 -0.01 
+                  </L>
+                  </keyframes>
+                </x>
+              <y>
+                <default>
+                  0 
+                </default>
+                <keyframes>
+                  <L>
+                    204 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0.02 
+                    </prev>
+                    205 0.02 
+                  </L>
+                  </keyframes>
+                </y>
+              <sx>
+                <default>
+                  1 
+                </default>
+                </sx>
+              <sy>
+                <default>
+                  1 
+                </default>
+                </sy>
+              <sc>
+                <default>
+                  1 
+                </default>
+                <keyframes>
+                  <L>
+                    205 1 
+                  </L>
+                  </keyframes>
+                </sc>
+              <nodePos>
+                24620 24900 
+              </nodePos>
+              </pegbar>
+            <pegbar id="Col16">
+              <parent handle="B" id="Table" parentHandle="B">
+                </parent>
+              <isOpened>
+                0 
+              </isOpened>
+              <center>
+                0 0 0 0 
+              </center>
+              <status>
+                0 
+              </status>
+              <y>
+                <default>
+                  0 
+                </default>
+                <keyframes>
+                  <C>
+                    0 0.02 
+                  </C>
+                  <S>
+                    203 0 0.333333 0 
+                  </S>
+                  <S>
+                    <prev>
+                      0.02 0 0 
+                    </prev>
+                    204 0.02 0.333333 0 
+                  </S>
+                  <C>
+                    <prev>
+                      0 0 0 
+                    </prev>
+                    205 0 
+                  </C>
+                  <C>
+                    367 0.02 
+                  </C>
+                  <C>
+                    370 0 
+                  </C>
+                  <C>
+                    384 0.02 
+                  </C>
+                  <C>
+                    387 0 
+                  </C>
+                  <C>
+                    390 0.02 
+                  </C>
+                  <L>
+                    393 0 
+                  </L>
+                  </keyframes>
+                </y>
+              <sx>
+                <default>
+                  1 
+                </default>
+                </sx>
+              <sy>
+                <default>
+                  1 
+                </default>
+                </sy>
+              <sc>
+                <default>
+                  1 
+                </default>
+                <keyframes>
+                  <L>
+                    0 1 
+                  </L>
+                  </keyframes>
+                </sc>
+              <nodePos>
+                24620 24850 
+              </nodePos>
+              </pegbar>
+            <pegbar id="Col17">
+              <parent handle="B" id="Table" parentHandle="B">
+                </parent>
+              <isOpened>
+                0 
+              </isOpened>
+              <center>
+                0 0 0 0 
+              </center>
+              <status>
+                0 
+              </status>
+              <sx>
+                <default>
+                  1 
+                </default>
+                </sx>
+              <sy>
+                <default>
+                  1 
+                </default>
+                </sy>
+              <sc>
+                <default>
+                  1 
+                </default>
+                </sc>
+              <nodePos>
+                24620 25050 
+              </nodePos>
+              </pegbar>
+            <pegbar id="Col18">
+              <parent handle="B" id="Table" parentHandle="B">
+                </parent>
+              <isOpened>
+                0 
+              </isOpened>
+              <center>
+                0 0 0 0 
+              </center>
+              <status>
+                0 
+              </status>
+              <sx>
+                <default>
+                  1 
+                </default>
+                </sx>
+              <sy>
+                <default>
+                  1 
+                </default>
+                </sy>
+              <sc>
+                <default>
+                  1 
+                </default>
+                </sc>
+              <nodePos>
+                24620 24800 
+              </nodePos>
+              </pegbar>
+            <pegbar id="Col19">
+              <parent handle="B" id="Table" parentHandle="B">
+                </parent>
+              <isOpened>
+                0 
+              </isOpened>
+              <center>
+                0 0 0 0 
+              </center>
+              <status>
+                0 
+              </status>
+              <sx>
+                <default>
+                  1 
+                </default>
+                </sx>
+              <sy>
+                <default>
+                  1 
+                </default>
+                </sy>
+              <sc>
+                <default>
+                  1 
+                </default>
+                </sc>
+              <nodePos>
+                24620 24700 
+              </nodePos>
+              </pegbar>
+            <pegbar id="Col20">
+              <parent handle="B" id="Table" parentHandle="B">
+                </parent>
+              <isOpened>
+                0 
+              </isOpened>
+              <center>
+                0 0 0 0 
+              </center>
+              <status>
+                0 
+              </status>
+              <sx>
+                <default>
+                  1 
+                </default>
+                </sx>
+              <sy>
+                <default>
+                  1 
+                </default>
+                </sy>
+              <sc>
+                <default>
+                  1 
+                </default>
+                </sc>
+              <nodePos>
+                24620 24750 
+              </nodePos>
+              </pegbar>
+            <pegbar id="Col21">
+              <parent handle="B" id="Table" parentHandle="B">
+                </parent>
+              <isOpened>
+                0 
+              </isOpened>
+              <center>
+                0 0 0 0 
+              </center>
+              <status>
+                0 
+              </status>
+              <sx>
+                <default>
+                  1 
+                </default>
+                </sx>
+              <sy>
+                <default>
+                  1 
+                </default>
+                </sy>
+              <sc>
+                <default>
+                  1 
+                </default>
+                </sc>
+              <nodePos>
+                24620 25500 
+              </nodePos>
+              </pegbar>
+            <grid_dimension>
+              1 
+            </grid_dimension>
+            </pegbars>
+          <fxnodes>
+            <internal>
+              <fxnode>
+                <STD_blurFx id='75'>
+                  
+                  <params>
+                    <value>
+                      <default>
+                        1.06667 
+                      </default>
+                      </value>
+                    <useSSE>
+                      1 1 
+                    </useSSE>
+                    </params>
+                  <ports>
+                    <Source>
+                      <Toonz_columnFx id='54'/>
+                    </Source>
+                    </ports>
+                  <dagNodePos>
+                    25120 24550 
+                  </dagNodePos>
+                  <numberId>
+                    2 
+                  </numberId>
+                  <name>
+                    Blur02 
+                  </name>
+                  <fxId>
+                    Blur02 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </STD_blurFx>
+                
+              </fxnode>
+              <fxnode>
+                <STD_blurFx id='76'>
+                  
+                  <params>
+                    <value>
+                      <default>
+                        0.106667 
+                      </default>
+                      </value>
+                    <useSSE>
+                      1 1 
+                    </useSSE>
+                    </params>
+                  <ports>
+                    <Source>
+                      <Toonz_columnFx id='70'/>
+                    </Source>
+                    </ports>
+                  <dagNodePos>
+                    25150 24150 
+                  </dagNodePos>
+                  <numberId>
+                    5 
+                  </numberId>
+                  <name>
+                    Blur03 
+                  </name>
+                  <fxId>
+                    Blur05 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </STD_blurFx>
+                
+              </fxnode>
+              <fxnode>
+                <STD_blurFx id='77'>
+                  
+                  <params>
+                    <value>
+                      <default>
+                        0.106667 
+                      </default>
+                      </value>
+                    <useSSE>
+                      1 1 
+                    </useSSE>
+                    </params>
+                  <ports>
+                    <Source>
+                      <Toonz_columnFx id='68'/>
+                    </Source>
+                    </ports>
+                  <dagNodePos>
+                    25120 24200 
+                  </dagNodePos>
+                  <numberId>
+                    3 
+                  </numberId>
+                  <name>
+                    Blur03 
+                  </name>
+                  <fxId>
+                    Blur03 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </STD_blurFx>
+                
+              </fxnode>
+              <fxnode>
+                <STD_blurFx id='78'>
+                  
+                  <params>
+                    <value>
+                      <default>
+                        0.533333 
+                      </default>
+                      </value>
+                    <useSSE>
+                      1 1 
+                    </useSSE>
+                    </params>
+                  <ports>
+                    <Source>
+                      <Toonz_columnFx id='66'/>
+                    </Source>
+                    </ports>
+                  <dagNodePos>
+                    25120 24250 
+                  </dagNodePos>
+                  <numberId>
+                    4 
+                  </numberId>
+                  <name>
+                    Blur04 
+                  </name>
+                  <fxId>
+                    Blur04 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </STD_blurFx>
+                
+              </fxnode>
+              <fxnode>
+                <STD_blurFx id='79'>
+                  
+                  <params>
+                    <value>
+                      <default>
+                        1.6 
+                      </default>
+                      </value>
+                    <useSSE>
+                      1 1 
+                    </useSSE>
+                    </params>
+                  <ports>
+                    <Source>
+                      <Toonz_columnFx id='52'/>
+                    </Source>
+                    </ports>
+                  <dagNodePos>
+                    25120 24600 
+                  </dagNodePos>
+                  <numberId>
+                    1 
+                  </numberId>
+                  <name>
+                    Blur01 
+                  </name>
+                  <fxId>
+                    Blur01 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </STD_blurFx>
+                
+              </fxnode>
+              <fxnode>
+                <STD_blurFx id='80'>
+                  
+                  <params>
+                    <value>
+                      <default>
+                        1.06667 
+                      </default>
+                      </value>
+                    <useSSE>
+                      1 1 
+                    </useSSE>
+                    </params>
+                  <ports>
+                    <Source>
+                      <Toonz_columnFx id='56'/>
+                    </Source>
+                    </ports>
+                  <dagNodePos>
+                    25123.8 24493.2 
+                  </dagNodePos>
+                  <numberId>
+                    6 
+                  </numberId>
+                  <name>
+                    Blur02 
+                  </name>
+                  <fxId>
+                    Blur06 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </STD_blurFx>
+                
+              </fxnode>
+              <fxnode>
+                <STD_glowFx id='81'>
+                  
+                  <params>
+                    <value>
+                      <default>
+                        5.33333 
+                      </default>
+                      </value>
+                    <brightness>
+                      <default>
+                        10 
+                      </default>
+                      </brightness>
+                    <color>
+                      <red>
+                        <default>
+                          0.886275 
+                        </default>
+                        </red>
+                      <green>
+                        <default>
+                          0.266667 
+                        </default>
+                        </green>
+                      <blue>
+                        <default>
+                          0.266667 
+                        </default>
+                        </blue>
+                      <matte>
+                        <default>
+                          1 
+                        </default>
+                        </matte>
+                      </color>
+                    <fade>
+                      <default>
+                        51.156 
+                      </default>
+                      </fade>
+                    </params>
+                  <ports>
+                    <Light>
+                      <Toonz_xsheetFx id='82'>
+                        
+                        <params>
+                          </params>
+                        <ports>
+                          </ports>
+                        <dagNodePos>
+                          25240 24525 
+                        </dagNodePos>
+                        <numberId>
+                          0 
+                        </numberId>
+                        <name>
+                          Xsheet 
+                        </name>
+                        <fxId>
+                          "" 
+                        </fxId>
+                        <opened>
+                          0 
+                        </opened>
+                        
+                      </Toonz_xsheetFx>
+                      
+                    </Light>
+                    <Source>
+                      <Toonz_xsheetFx id='82'/>
+                    </Source>
+                    </ports>
+                  <dagNodePos>
+                    25360 24525 
+                  </dagNodePos>
+                  <numberId>
+                    1 
+                  </numberId>
+                  <name>
+                    Glow01 
+                  </name>
+                  <fxId>
+                    Glow01 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </STD_glowFx>
+                
+              </fxnode>
+              <fxnode>
+                <STD_inoMultiplyFx id='83'>
+                  
+                  <params>
+                    <opacity>
+                      <default>
+                        1 
+                      </default>
+                      </opacity>
+                    <clipping_mask>
+                      1 1 
+                    </clipping_mask>
+                    </params>
+                  <ports>
+                    <Back>
+                      <Toonz_columnFx id='40'/>
+                    </Back>
+                    <Fore>
+                      <Toonz_columnFx id='42'/>
+                    </Fore>
+                    </ports>
+                  <dagNodePos>
+                    25120 24800 
+                  </dagNodePos>
+                  <numberId>
+                    1 
+                  </numberId>
+                  <name>
+                    MultiplyIno01 
+                  </name>
+                  <fxId>
+                    MultiplyIno01 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </STD_inoMultiplyFx>
+                
+              </fxnode>
+              <fxnode>
+                <multFx id='84'>
+                  
+                  <params>
+                    <value>
+                      <default>
+                        0 
+                      </default>
+                      </value>
+                    <matte>
+                      0 0 
+                    </matte>
+                    </params>
+                  <ports>
+                    <Source1>
+                      <Toonz_columnFx id='72'/>
+                    </Source1>
+                    <Source2>
+                      </Source2>
+                    </ports>
+                  <dagNodePos>
+                    25120 24100 
+                  </dagNodePos>
+                  <numberId>
+                    1 
+                  </numberId>
+                  <name>
+                    ImageCombinationFx 
+                  </name>
+                  <fxId>
+                    Multiply01 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </multFx>
+                
+              </fxnode>
+              </internal>
+            <terminal>
+              <fxnode>
+                <STD_blurFx id='75'/>
+              </fxnode>
+              <fxnode>
+                <STD_blurFx id='76'/>
+              </fxnode>
+              <fxnode>
+                <STD_blurFx id='77'/>
+              </fxnode>
+              <fxnode>
+                <STD_blurFx id='78'/>
+              </fxnode>
+              <fxnode>
+                <STD_blurFx id='79'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='46'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='44'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='48'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='62'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='58'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='60'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='64'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='74'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='34'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='36'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='42'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='40'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='38'/>
+              </fxnode>
+              <fxnode>
+                <STD_inoMultiplyFx id='83'/>
+              </fxnode>
+              <fxnode>
+                <multFx id='84'/>
+              </fxnode>
+              </terminal>
+            <xsheet>
+              <Toonz_xsheetFx id='82'/>
+            </xsheet>
+            <output>
+              <Toonz_outputFx id='85'>
+                
+                <params>
+                  </params>
+                <ports>
+                  <source>
+                    <STD_glowFx id='81'/>
+                  </source>
+                  </ports>
+                <dagNodePos>
+                  25480 24525 
+                </dagNodePos>
+                <numberId>
+                  0 
+                </numberId>
+                <name>
+                  OutputFx 
+                </name>
+                <fxId>
+                  "" 
+                </fxId>
+                <opened>
+                  0 
+                </opened>
+                
+              </Toonz_outputFx>
+              
+            </output>
+            <grid_dimension>
+              1 
+            </grid_dimension>
+            </fxnodes>
+          
+        </xsheet>
+        
+        <name>
+          035 
+        </name>
+        
+      </childLevel>
+      
+    </levels>
+    <folder name="Cast" type="default">
+      <folder name="035">
+        <levels>
+          <level id='29'/><level id='23'/><level id='22'/><level id='26'/><level id='25'/><level id='28'/><level id='21'/><level id='18'/><level id='24'/><level id='30'/><level id='20'/><level id='19'/><level id='27'/>
+        </levels>
+        </folder>
+      <levels>
+        <childLevel id='31'/><level id='6'/><level id='7'/><level id='8'/><level id='1'/><level id='14'/><level id='16'/><level id='2'/><level id='12'/><level id='3'/><level id='10'/><level id='13'/><level id='4'/><level id='9'/><level id='5'/><level id='11'/><level id='15'/><level id='17'/>
+      </levels>
+      </folder>
+    <folder name="Audio">
+      </folder>
+    </levelSet>
+  <xsheet>
+    <columns>
+      <levelColumn id='86'>
+        
+        <status>
+          3 
+        </status>
+        <cells>
+          <cell>
+            0 408 <level id='2'/>"-"0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='87'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25000 25000 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='88'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 408 <childLevel id='31'/>0001 1 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='89'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25000 24950 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='90'>
+        
+        <status>
+          3 
+        </status>
+        <cells>
+          <cell>
+            0 408 <level id='7'/>0001 0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='91'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25000 24900 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='92'>
+        
+        <status>
+          3 
+        </status>
+        <cells>
+          <cell>
+            0 408 <level id='4'/>"-"0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='93'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25000 24850 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='94'>
+        
+        <status>
+          3 
+        </status>
+        <cells>
+          <cell>
+            0 90 <level id='6'/>0001 0 
+          </cell>
+          <cell>
+            90 2 <level id='6'/>0002 0 
+          </cell>
+          <cell>
+            92 40 <level id='6'/>0001 0 
+          </cell>
+          <cell>
+            132 2 <level id='6'/>0002 0 
+          </cell>
+          <cell>
+            134 71 <level id='6'/>0001 0 
+          </cell>
+          <cell>
+            205 2 <level id='6'/>0002 0 
+          </cell>
+          <cell>
+            207 201 <level id='6'/>0001 0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='95'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25000 24800 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='96'>
+        
+        <status>
+          3 
+        </status>
+        <cells>
+          <cell>
+            0 408 <level id='3'/>"-"0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='97'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25000 24750 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='98'>
+        
+        <status>
+          3 
+        </status>
+        <cells>
+          <cell>
+            0 408 <level id='5'/>0001 0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='99'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25000 24700 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='100'>
+        
+        <status>
+          0 
+        </status>
+        <fx>
+          <Toonz_columnFx id='101'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25005 24455 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='102'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 408 <level id='10'/>"-"0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='103'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25000 24650 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='104'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 408 <level id='16'/>0001 0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='105'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25000 24600 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='106'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 408 <level id='30'/>0001 0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='107'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25000 24550 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='108'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 408 <level id='29'/>0001 0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='109'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25000 24500 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='110'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 408 <level id='13'/>0001 0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='111'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25000 24450 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='112'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 33 <level id='14'/>0001 0 
+          </cell>
+          <cell>
+            33 2 <level id='14'/>0002 0 
+          </cell>
+          <cell>
+            35 52 <level id='14'/>0001 0 
+          </cell>
+          <cell>
+            87 2 <level id='14'/>0002 0 
+          </cell>
+          <cell>
+            89 146 <level id='14'/>0001 0 
+          </cell>
+          <cell>
+            235 2 <level id='14'/>0002 0 
+          </cell>
+          <cell>
+            237 39 <level id='14'/>0001 0 
+          </cell>
+          <cell>
+            276 2 <level id='14'/>0002 0 
+          </cell>
+          <cell>
+            278 71 <level id='14'/>0001 0 
+          </cell>
+          <cell>
+            349 2 <level id='14'/>0002 0 
+          </cell>
+          <cell>
+            351 57 <level id='14'/>0001 0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='113'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25000 24400 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='114'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 96 <level id='15'/>0001 0 
+          </cell>
+          <cell>
+            96 3 <level id='15'/>0002 0 
+          </cell>
+          <cell>
+            99 9 <level id='15'/>0003 0 
+          </cell>
+          <cell>
+            108 3 <level id='15'/>0002 0 
+          </cell>
+          <cell>
+            111 9 <level id='15'/>0003 0 
+          </cell>
+          <cell>
+            120 3 <level id='15'/>0002 0 
+          </cell>
+          <cell>
+            123 3 <level id='15'/>0003 0 
+          </cell>
+          <cell>
+            126 3 <level id='15'/>0002 0 
+          </cell>
+          <cell>
+            129 3 <level id='15'/>0003 0 
+          </cell>
+          <cell>
+            132 3 <level id='15'/>0002 0 
+          </cell>
+          <cell>
+            135 3 <level id='15'/>0003 0 
+          </cell>
+          <cell>
+            138 3 <level id='15'/>0002 0 
+          </cell>
+          <cell>
+            141 12 <level id='15'/>0003 0 
+          </cell>
+          <cell>
+            153 3 <level id='15'/>0002 0 
+          </cell>
+          <cell>
+            156 3 <level id='15'/>0001 0 
+          </cell>
+          <cell>
+            159 3 <level id='15'/>0003 0 
+          </cell>
+          <cell>
+            162 3 <level id='15'/>0002 0 
+          </cell>
+          <cell>
+            165 5 <level id='15'/>0003 0 
+          </cell>
+          <cell>
+            170 3 <level id='15'/>0002 0 
+          </cell>
+          <cell>
+            173 3 <level id='15'/>0003 0 
+          </cell>
+          <cell>
+            176 3 <level id='15'/>0002 0 
+          </cell>
+          <cell>
+            179 3 <level id='15'/>0003 0 
+          </cell>
+          <cell>
+            182 4 <level id='15'/>0002 0 
+          </cell>
+          <cell>
+            186 180 <level id='15'/>0001 0 
+          </cell>
+          <cell>
+            366 3 <level id='15'/>0003 0 
+          </cell>
+          <cell>
+            369 5 <level id='15'/>0002 0 
+          </cell>
+          <cell>
+            374 3 <level id='15'/>0003 0 
+          </cell>
+          <cell>
+            377 3 <level id='15'/>0002 0 
+          </cell>
+          <cell>
+            380 6 <level id='15'/>0003 0 
+          </cell>
+          <cell>
+            386 4 <level id='15'/>0001 0 
+          </cell>
+          <cell>
+            390 3 <level id='15'/>0002 0 
+          </cell>
+          <cell>
+            393 3 <level id='15'/>0003 0 
+          </cell>
+          <cell>
+            396 6 <level id='15'/>0002 0 
+          </cell>
+          <cell>
+            402 6 <level id='15'/>0001 0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='115'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25000 24350 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='116'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 408 <level id='11'/>"-"0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='117'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25000 24300 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='118'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 408 <level id='12'/>0001 0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='119'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25000 24250 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='120'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 408 <level id='28'/>0001 0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='121'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25000 24200 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='122'>
+        
+        <status>
+          1 
+        </status>
+        <cells>
+          <cell>
+            0 408 <level id='17'/>"-"0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='123'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25000 24150 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='124'>
+        
+        <status>
+          3 
+        </status>
+        <cells>
+          <cell>
+            0 1 <level id='1'/>"-"0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='125'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25000 24100 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      
+    </columns>
+    <pegbars>
+      <pegbar activeboth="yes" id="Camera1">
+        <parent handle="B" id="None" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <x>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 0 
+            </L>
+            </keyframes>
+          </x>
+        <y>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 -0.588664 
+            </L>
+            </keyframes>
+          </y>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24500 25550 
+        </nodePos>
+        <camera>
+          <cameraSize>
+            11.36 6.38667 
+          </cameraSize>
+          <cameraRes>
+            1704 958 
+          </cameraRes>
+          <cameraXPrevalence>
+            1 
+          </cameraXPrevalence>
+          <interestRect>
+            0 0 -1 -1 
+          </interestRect>
+          </camera>
+        </pegbar>
+      <pegbar id="Table">
+        <parent handle="B" id="None" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24500 25500 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col1">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24620 25450 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col2">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24620 24750 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col3">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24620 25050 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col4">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24620 25350 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col5">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24620 25250 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col6">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24620 25400 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col7">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24620 25300 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col8">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24620 25000 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col9">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24620 25200 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col10">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24620 25100 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col11">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24620 24700 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col12">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24620 24650 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col13">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24620 24900 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col14">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24620 25000 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col15">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24620 24850 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col16">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24620 25150 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col17">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24620 24950 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col18">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24620 24600 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col19">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24620 24800 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col20">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24620 25500 
+        </nodePos>
+        </pegbar>
+      <grid_dimension>
+        1 
+      </grid_dimension>
+      </pegbars>
+    <fxnodes>
+      <internal>
+        <fxnode>
+          <STD_blurFx id='126'>
+            
+            <params>
+              <value>
+                <default>
+                  4.26667 
+                </default>
+                </value>
+              <useSSE>
+                1 1 
+              </useSSE>
+              </params>
+            <ports>
+              <Source>
+                <Toonz_columnFx id='103'/>
+              </Source>
+              </ports>
+            <dagNodePos>
+              25120 24650 
+            </dagNodePos>
+            <numberId>
+              1 
+            </numberId>
+            <name>
+              Blur01 
+            </name>
+            <fxId>
+              Blur01 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </STD_blurFx>
+          
+        </fxnode>
+        <fxnode>
+          <STD_blurFx id='127'>
+            
+            <params>
+              <value>
+                <default>
+                  1.6 
+                </default>
+                </value>
+              <useSSE>
+                1 1 
+              </useSSE>
+              </params>
+            <ports>
+              <Source>
+                <Toonz_columnFx id='107'/>
+              </Source>
+              </ports>
+            <dagNodePos>
+              25119.9 24548.1 
+            </dagNodePos>
+            <numberId>
+              6 
+            </numberId>
+            <name>
+              Blur02 
+            </name>
+            <fxId>
+              Blur06 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </STD_blurFx>
+          
+        </fxnode>
+        <fxnode>
+          <STD_blurFx id='128'>
+            
+            <params>
+              <value>
+                <default>
+                  1.6 
+                </default>
+                </value>
+              <useSSE>
+                1 1 
+              </useSSE>
+              </params>
+            <ports>
+              <Source>
+                <Toonz_columnFx id='105'/>
+              </Source>
+              </ports>
+            <dagNodePos>
+              25121 24600 
+            </dagNodePos>
+            <numberId>
+              2 
+            </numberId>
+            <name>
+              Blur02 
+            </name>
+            <fxId>
+              Blur02 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </STD_blurFx>
+          
+        </fxnode>
+        <fxnode>
+          <STD_blurFx id='129'>
+            
+            <params>
+              <value>
+                <default>
+                  0.533333 
+                </default>
+                </value>
+              <useSSE>
+                1 1 
+              </useSSE>
+              </params>
+            <ports>
+              <Source>
+                <Toonz_columnFx id='117'/>
+              </Source>
+              </ports>
+            <dagNodePos>
+              25120 24300 
+            </dagNodePos>
+            <numberId>
+              4 
+            </numberId>
+            <name>
+              Blur04 
+            </name>
+            <fxId>
+              Blur04 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </STD_blurFx>
+          
+        </fxnode>
+        <fxnode>
+          <STD_blurFx id='130'>
+            
+            <params>
+              <value>
+                <default>
+                  0.533333 
+                </default>
+                </value>
+              <useSSE>
+                1 1 
+              </useSSE>
+              </params>
+            <ports>
+              <Source>
+                <Toonz_columnFx id='119'/>
+              </Source>
+              </ports>
+            <dagNodePos>
+              25120 24250 
+            </dagNodePos>
+            <numberId>
+              3 
+            </numberId>
+            <name>
+              Blur03 
+            </name>
+            <fxId>
+              Blur03 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </STD_blurFx>
+          
+        </fxnode>
+        <fxnode>
+          <STD_blurFx id='131'>
+            
+            <params>
+              <value>
+                <default>
+                  0.533333 
+                </default>
+                </value>
+              <useSSE>
+                1 1 
+              </useSSE>
+              </params>
+            <ports>
+              <Source>
+                <Toonz_columnFx id='121'/>
+              </Source>
+              </ports>
+            <dagNodePos>
+              25150 24200 
+            </dagNodePos>
+            <numberId>
+              5 
+            </numberId>
+            <name>
+              Blur03 
+            </name>
+            <fxId>
+              Blur05 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </STD_blurFx>
+          
+        </fxnode>
+        <fxnode>
+          <STD_glowFx id='132'>
+            
+            <params>
+              <value>
+                <default>
+                  5.33333 
+                </default>
+                </value>
+              <brightness>
+                <default>
+                  10 
+                </default>
+                </brightness>
+              <color>
+                <red>
+                  <default>
+                    1 
+                  </default>
+                  </red>
+                <green>
+                  <default>
+                    0.290196 
+                  </default>
+                  </green>
+                <blue>
+                  <default>
+                    0.290196 
+                  </default>
+                  </blue>
+                <matte>
+                  <default>
+                    1 
+                  </default>
+                  </matte>
+                </color>
+              <fade>
+                <default>
+                  53.757 
+                </default>
+                </fade>
+              </params>
+            <ports>
+              <Light>
+                <Toonz_xsheetFx id='133'>
+                  
+                  <params>
+                    </params>
+                  <ports>
+                    </ports>
+                  <dagNodePos>
+                    25240 24550 
+                  </dagNodePos>
+                  <numberId>
+                    0 
+                  </numberId>
+                  <name>
+                    Xsheet 
+                  </name>
+                  <fxId>
+                    "" 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </Toonz_xsheetFx>
+                
+              </Light>
+              <Source>
+                <Toonz_xsheetFx id='133'/>
+              </Source>
+              </ports>
+            <dagNodePos>
+              25360 24550 
+            </dagNodePos>
+            <numberId>
+              1 
+            </numberId>
+            <name>
+              Glow01 
+            </name>
+            <fxId>
+              Glow01 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </STD_glowFx>
+          
+        </fxnode>
+        <fxnode>
+          <multFx id='134'>
+            
+            <params>
+              <value>
+                <default>
+                  0 
+                </default>
+                </value>
+              <matte>
+                0 0 
+              </matte>
+              </params>
+            <ports>
+              <Source1>
+                <Toonz_columnFx id='123'/>
+              </Source1>
+              <Source2>
+                </Source2>
+              </ports>
+            <dagNodePos>
+              25120 24150 
+            </dagNodePos>
+            <numberId>
+              1 
+            </numberId>
+            <name>
+              ImageCombinationFx 
+            </name>
+            <fxId>
+              Multiply01 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </multFx>
+          
+        </fxnode>
+        </internal>
+      <terminal>
+        <fxnode>
+          <STD_blurFx id='126'/>
+        </fxnode>
+        <fxnode>
+          <STD_blurFx id='127'/>
+        </fxnode>
+        <fxnode>
+          <STD_blurFx id='128'/>
+        </fxnode>
+        <fxnode>
+          <STD_blurFx id='129'/>
+        </fxnode>
+        <fxnode>
+          <STD_blurFx id='130'/>
+        </fxnode>
+        <fxnode>
+          <STD_blurFx id='131'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='91'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='87'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='93'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='89'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='95'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='99'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='101'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='97'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='109'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='111'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='115'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='125'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='113'/>
+        </fxnode>
+        <fxnode>
+          <multFx id='134'/>
+        </fxnode>
+        </terminal>
+      <xsheet>
+        <Toonz_xsheetFx id='133'/>
+      </xsheet>
+      <output>
+        <Toonz_outputFx id='135'>
+          
+          <params>
+            </params>
+          <ports>
+            <source>
+              <STD_glowFx id='132'/>
+            </source>
+            </ports>
+          <dagNodePos>
+            25480 24550 
+          </dagNodePos>
+          <numberId>
+            0 
+          </numberId>
+          <name>
+            OutputFx 
+          </name>
+          <fxId>
+            "" 
+          </fxId>
+          <opened>
+            0 
+          </opened>
+          
+        </Toonz_outputFx>
+        
+      </output>
+      <grid_dimension>
+        1 
+      </grid_dimension>
+      </fxnodes>
+    </xsheet>
+  <history>
+    "| #    DATE:       Time:   MACHINE:    USER:           |"
+    "| #1   02 4 16   18:55     ANDO-D-MASAK健太郎             |"
+    "| #2   02 4 16   23:27     ANDO-D-MASAK健太郎             |"
+    "| #3   02 4 16   23:41     ANDO-D-MASAK健太郎             |"
+    "| #4   03 4 16   18:13     ASUS-ROGGR6 yuema           |"
+    "| #5   26 4 16   23:07     ASUS-ROGGR6 yuema           |"
+    "| #6   26 4 16   23:09     ASUS-ROGGR6 yuema           |"
+    "| #7   01 5 16   21:52     DESKTOP-8J44hakut           |"
+    "| #8   02 5 16   12:51     ASUS-ROGGR6 yuema           |"
+    "| #9   05 5 16   03:05     ASUS-ROGGR6 yuema           |"
+    "| #10  05 5 16   08:07     ASUS-ROGGR6 yuema           |"
+  </history>
+  </tnz>

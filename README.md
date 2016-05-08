@@ -1,4 +1,4 @@
-mori002
+The story of Mikasa station - ep2
 ===
 Whole production data of The story of Mikasa station episode 2.
 
@@ -15,6 +15,9 @@ This repository includes:
  
 This repository does NOT include:
  - Voice and Sounds, Musics
+ 
+ ![Composited picture](https://github.com/Yuemashi/mori_002/blob/master/projects/S1/outputs/still.0001.png)
+ ![Composited C21](https://github.com/Yuemashi/mori_002/blob/master/projects/S1/outputs/021.0001.png)
  
  ## Requirements
  OpenToonz 1.0 is necessary for loading scenes.
@@ -37,14 +40,11 @@ This repository does NOT include:
   - Keyanimation: all scanned drawings (In S1\inputs)
   - Inbetween: all scanned drawings (In S1\Inputs)
   - Backgrounds: all painted files .png and .apd, .psd (In S1\extras)
-  - Timesheets: all scanned timesheet files .jpg (In S1\inputs)
-  
+  - Timesheets: all scanned timesheet files .jpg (In S1\inputs)  
   - Pre-composition files: pre-painted Keyanimation, BG files (In S1\inputs)
   - Pre-output files: some still for test layouts and effects (In S1\outputs)
-  
   - Color palettes: almost all color palettes for characters (In S1\palettes)
   - Scene files: all scene and template scene ("ゴルゴンゾーラシネマ撮影台 - 改.tnz" - japanese name) (In S1\scenes)
- 
   - OpenToonz QRH: OpenToonz quick reference handbook rev.1 (In \doc)
   - Script and storyboard: .pdf files are includes (In \doc)
   - Cutfolder documents: all scanned documents of japanese traditional cutfolders (In \doc\cutfolder)

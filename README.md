@@ -1,6 +1,6 @@
 The story of Mikasa station - ep2
 ===
-Whole production data of The story of Mikasa station episode 2.
+*Whole production data of The story of Mikasa station episode 2.*
 
 These data has been created by studio.gorgonezola. All files are licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. See http://creativecommons.org/licenses/by/4.0/ for detail of license.
 
@@ -15,6 +15,8 @@ This repository includes:
  
 This repository does NOT include:
  - Voice and Sounds, Musics
+ 
+ ## Examples
  
  ![Composited picture](https://github.com/Yuemashi/mori_002/blob/master/projects/S1/outputs/still.0001.png)
  ![Composited C21](https://github.com/Yuemashi/mori_002/blob/master/projects/S1/outputs/021.0001.png)
@@ -55,4 +57,4 @@ For more detail, please contact us:
  - Mail: support@gorgonezola.com
  - Blog: http://blog.gorgonezola.com
 
-We hope these documents and files are useful for making your animation!
+*We hope these documents and files are useful for making your animation!*

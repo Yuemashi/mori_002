@@ -55,4 +55,4 @@ For more detail, please contact us:
  - Mail: support@gorgonezola.com
  - Blog: http://blog.gorgonezola.com
 
-We hope these documents and files are useful for makeing your animation!
+We hope these documents and files are useful for making your animation!

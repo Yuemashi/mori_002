@@ -1,0 +1,51 @@
+
+„¥„Ÿcache
+„   „¤„Ÿtemp
+„¥„Ÿconfig
+„   „¥„Ÿcontrib
+„   „¥„Ÿfdg
+„   „¥„Ÿloc
+„   „   „¥„Ÿfrench
+„   „   „¥„Ÿitalian
+„   „   „¤„Ÿjapanese
+„   „¥„Ÿoutputpresets
+„   „¥„Ÿpap
+„   „¤„Ÿqss
+„       „¥„Ÿgray_048
+„       „¥„Ÿgray_072
+„       „   „¤„Ÿimgs
+„       „¤„Ÿgray_128
+„           „¤„Ÿimgs
+„¥„Ÿdoc
+„¥„Ÿplugins
+„¥„Ÿprofiles
+„   „¥„Ÿenv
+„   „¤„Ÿlayouts
+„¥„Ÿprojects
+„   „¥„Ÿfxs
+„   „¥„Ÿlibrary
+„   „¥„ŸS1
+„   „   „¥„ŸCutSheet
+„   „   „¥„Ÿdrawings
+„   „   „¥„Ÿextras
+„   „   „¥„Ÿinputs
+„   „   „¥„Ÿoutputs
+„   „   „¥„Ÿpalettes
+„   „   „   „¤„Ÿoldpalettes
+„   „   „¥„Ÿscenes
+„   „   „   „¤„ŸsceneIcons
+„   „   „¤„Ÿscripts
+„   „¤„Ÿstudiopalette
+„       „¤„ŸToonz Palettes
+„¥„Ÿsandbox
+„   „¥„ŸA0001
+„   „¥„Ÿb
+„   „¥„Ÿdrawings
+„   „¥„Ÿextras
+„   „¥„Ÿinputs
+„   „¥„Ÿoutputs
+„   „¥„Ÿpalettes
+„   „¥„Ÿscenes
+„   „¤„Ÿscripts
+„¥„Ÿstudiopalette
+„¤„Ÿtoonzfarm

@@ -32,9 +32,9 @@ This repository does NOT include:
  
  ### Path problem(fixed)
  ~~We had been put stuff folder at sharing folder. The original path is "\\winty\Product04\OpenToonz 1.0 stuff". All scene includes this path. You should change path to your location.
- OpenToonz scene files are included at "\projects\S1\scenes", which are plane XML document. You can replace path easily using some text replacing tools (Ex. \\\\winty\\Product04\\ to c:\\)
+ OpenToonz scene files are included at "\projects\S1\scenes", which are plane XML document. You can replace path easily using some text replacing tools (Ex. \\\\winty\\Product04\\ to c:\\)~~
  
- If you want to change scene files using OpenToonz, you should do right-click red-showed level, and open level settings. You can change path in this window. ~~
+~~ If you want to change scene files using OpenToonz, you should do right-click red-showed level, and open level settings. You can change path in this window. ~~
  
  ## Detail of included files
  This repository includes almost all production data. The project root is "\projects\S1".

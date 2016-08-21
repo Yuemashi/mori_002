@@ -1,4 +1,5 @@
-<palette name="">
+<palette id='1'>
+  
   <version>
     71 0 
   </version>
@@ -37,7 +38,7 @@
       "頬ボカシ"3 244 195 177 255 
     </style>
     <style>
-      "眉"3 86 69 56 255 
+      "眉"3 214 200 171 255 
     </style>
     <style>
       "白目"3 237 232 232 255 
@@ -1043,4 +1044,5 @@
   <shortcuts>
     0 1 2 3 -1 -1 -1 -1 -1 -1 
   </shortcuts>
-  </palette>
+  
+</palette>

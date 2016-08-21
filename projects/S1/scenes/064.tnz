@@ -37,7 +37,7 @@
           24 
         </fps>
         <path>
-          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\outputs\\.avi"
+          "+outputs\\.avi"
         </path>
         <bpp>
           32 
@@ -74,7 +74,13 @@
             <property name="Codec" type="enum" value="Uncompressed">
               <item value="Uncompressed"/>
               <item value="MS-CRAM \'32\' Microsoft Video 1"/>
+              <item value="Lagarith \'32\' Lagarith Lossless Codec"/>
+              <item value="x264vfw \'32\' x264vfw - H.264/MPEG-4 AVC codec"/>
+              <item value="XVID \'32\' Xvid MPEG-4 Codec"/>
               <item value="MS-CRAM \'24\' Microsoft Video 1"/>
+              <item value="Lagarith \'24\' Lagarith Lossless Codec"/>
+              <item value="x264vfw \'24\' x264vfw - H.264/MPEG-4 AVC codec"/>
+              <item value="XVID \'24\' Xvid MPEG-4 Codec"/>
               </property>
             </formatProperties>
           <formatProperties ext="tif">
@@ -266,9 +272,9 @@
       <despeckling value="2"/>
       <aaValue value="70"/>
       <closestField value="10.000000"/>
-      <fdg name="fld_10_4mm_acme"/>
+      <fdg name=""/>
       <path>
-        "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\061"
+        "+inputs\\061"
       </path>
       </cleanupParameters>
     <scanParameters>
@@ -365,7 +371,7 @@
         "LO用紙ビスタサイズ(150DPI)"
         <info dpix="150.000000" dpiy="150.000000"/>
         <path>
-          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\LO用紙ビスタサイズ(150DPI).png"
+          "+inputs\\LO用紙ビスタサイズ(150DPI).png"
         </path>
         
       </level>
@@ -373,7 +379,7 @@
         Co61BG 
         <info dpix="150.000000" dpiy="150.000000"/>
         <path>
-          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\061\\Co61BG.jpg"
+          "+inputs\\061\\Co61BG.jpg"
         </path>
         
       </level>
@@ -381,7 +387,7 @@
         KeyA 
         <info dpix="150.000000" dpiy="150.000000" whiteTransp="1"/>
         <path>
-          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\064\\KeyA..jpg"
+          "+inputs\\064\\KeyA..jpg"
         </path>
         
       </level>
@@ -389,7 +395,7 @@
         KeyB 
         <info dpix="150.000000" dpiy="150.000000" whiteTransp="1"/>
         <path>
-          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\064\\KeyB..jpg"
+          "+inputs\\064\\KeyB..jpg"
         </path>
         
       </level>
@@ -397,7 +403,7 @@
         KeyC 
         <info dpix="150.000000" dpiy="150.000000" whiteTransp="1"/>
         <path>
-          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\064\\KeyC..jpg"
+          "+inputs\\064\\KeyC..jpg"
         </path>
         
       </level>
@@ -405,10 +411,10 @@
         InbetA 
         <info dpix="175.200000" dpiy="175.200000"/>
         <path>
-          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\064\\InbetA.tlv"
+          "+inputs\\064\\InbetA.tlv"
         </path>
         <scannedPath>
-          "Z:\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\064\\InbetA..jpg"
+          "+inputs\\064\\InbetA..jpg"
         </scannedPath>
         
       </level>
@@ -416,10 +422,10 @@
         InbetB 
         <info dpiType="image"/>
         <path>
-          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\064\\InbetB.tlv"
+          "+inputs\\064\\InbetB.tlv"
         </path>
         <scannedPath>
-          "Z:\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\064\\InbetB..jpg"
+          "+inputs\\064\\InbetB..jpg"
         </scannedPath>
         
       </level>
@@ -427,10 +433,10 @@
         InbetC 
         <info dpix="150.000000" dpiy="150.000000"/>
         <path>
-          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\064\\InbetC.tlv"
+          "+inputs\\064\\InbetC.tlv"
         </path>
         <scannedPath>
-          "Z:\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\064\\InbetC..jpg"
+          "+inputs\\064\\InbetC..jpg"
         </scannedPath>
         
       </level>
@@ -438,110 +444,53 @@
         InbetD 
         <info dpix="175.200000" dpiy="175.200000"/>
         <path>
-          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\064\\InbetD.tlv"
+          "+inputs\\064\\InbetD.tlv"
         </path>
         <scannedPath>
-          "Z:\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\064\\InbetD..jpg"
+          "+inputs\\064\\InbetD..jpg"
         </scannedPath>
         
       </level>
       <level id='10'>
-        KeyC_1 
-        <info dpix="150.000000" dpiy="150.000000" whiteTransp="1"/>
+        BG 
+        <info dpix="150.000000" dpiy="150.000000"/>
         <path>
-          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\061\\KeyC..jpg"
+          "+extras\\061\\BG..png"
         </path>
         
       </level>
       <level id='11'>
-        KeyB_1 
-        <info dpix="150.000000" dpiy="150.000000" whiteTransp="1"/>
-        <path>
-          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\061\\KeyB..jpg"
-        </path>
-        
-      </level>
-      <level id='12'>
-        Co61BG_1 
-        <info dpix="150.000000" dpiy="150.000000" whiteTransp="1"/>
-        <path>
-          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\061\\Co61BG.jpg"
-        </path>
-        
-      </level>
-      <level id='13'>
-        KeyA_1 
-        <info dpix="150.000000" dpiy="150.000000" whiteTransp="1"/>
-        <path>
-          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\061\\KeyA..jpg"
-        </path>
-        
-      </level>
-      <level id='14'>
-        InbetA_1 
-        <info dpix="175.200000" dpiy="175.200000"/>
-        <path>
-          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\061\\InbetA.tlv"
-        </path>
-        <scannedPath>
-          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\061\\InbetA..jpg"
-        </scannedPath>
-        
-      </level>
-      <level id='15'>
-        InbetB_1 
-        <info dpix="175.200000" dpiy="175.200000"/>
-        <path>
-          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\061\\InbetB.tlv"
-        </path>
-        <scannedPath>
-          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\061\\InbetB..jpg"
-        </scannedPath>
-        
-      </level>
-      <level id='16'>
-        InbetC_1 
-        <info dpix="175.200000" dpiy="175.200000"/>
-        <path>
-          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\061\\InbetC.tlv"
-        </path>
-        <scannedPath>
-          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\061\\InbetC..jpg"
-        </scannedPath>
-        
-      </level>
-      <level id='17'>
-        BG 
-        <info dpix="150.000000" dpiy="150.000000"/>
-        <path>
-          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\extras\\061\\BG..png"
-        </path>
-        
-      </level>
-      <level id='18'>
         G004 
         <info dpix="300.000000" dpiy="300.000000"/>
         <path>
-          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\extras\\effects\\G004.png"
+          "+extras\\effects\\G004.png"
         </path>
         
       </level>
-      <childLevel id='19'>
-        <xsheet id='20'>
+      <childLevel id='12'>
+        <xsheet id='13'>
           
           <columns>
-            <levelColumn id='21'>
+            <levelColumn id='14'>
               
               <status>
                 3 
               </status>
               <cells>
                 <cell>
-                  0 48 <level id='12'/>"-"0 
+                  0 48 <level id='15'>
+                    Co61BG_1 
+                    <info dpix="150.000000" dpiy="150.000000" whiteTransp="1"/>
+                    <path>
+                      "+inputs\\061\\Co61BG.jpg"
+                    </path>
+                    
+                  </level>
+                  "-"0 
                 </cell>
                 </cells>
               <fx>
-                <Toonz_columnFx id='22'>
+                <Toonz_columnFx id='16'>
                   
                   <params>
                     </params>
@@ -568,18 +517,26 @@
               </fx>
               
             </levelColumn>
-            <levelColumn id='23'>
+            <levelColumn id='17'>
               
               <status>
                 3 
               </status>
               <cells>
                 <cell>
-                  0 48 <level id='10'/>0001 0 
+                  0 48 <level id='18'>
+                    KeyC_1 
+                    <info dpix="150.000000" dpiy="150.000000" whiteTransp="1"/>
+                    <path>
+                      "+inputs\\061\\KeyC..jpg"
+                    </path>
+                    
+                  </level>
+                  0001 0 
                 </cell>
                 </cells>
               <fx>
-                <Toonz_columnFx id='24'>
+                <Toonz_columnFx id='19'>
                   
                   <params>
                     </params>
@@ -606,18 +563,26 @@
               </fx>
               
             </levelColumn>
-            <levelColumn id='25'>
+            <levelColumn id='20'>
               
               <status>
                 3 
               </status>
               <cells>
                 <cell>
-                  0 48 <level id='11'/>0001 0 
+                  0 48 <level id='21'>
+                    KeyB_1 
+                    <info dpix="150.000000" dpiy="150.000000" whiteTransp="1"/>
+                    <path>
+                      "+inputs\\061\\KeyB..jpg"
+                    </path>
+                    
+                  </level>
+                  0001 0 
                 </cell>
                 </cells>
               <fx>
-                <Toonz_columnFx id='26'>
+                <Toonz_columnFx id='22'>
                   
                   <params>
                     </params>
@@ -644,18 +609,26 @@
               </fx>
               
             </levelColumn>
-            <levelColumn id='27'>
+            <levelColumn id='23'>
               
               <status>
                 3 
               </status>
               <cells>
                 <cell>
-                  0 48 <level id='13'/>0001 0 
+                  0 48 <level id='24'>
+                    KeyA_1 
+                    <info dpix="150.000000" dpiy="150.000000" whiteTransp="1"/>
+                    <path>
+                      "+inputs\\061\\KeyA..jpg"
+                    </path>
+                    
+                  </level>
+                  0001 0 
                 </cell>
                 </cells>
               <fx>
-                <Toonz_columnFx id='28'>
+                <Toonz_columnFx id='25'>
                   
                   <params>
                     </params>
@@ -682,13 +655,13 @@
               </fx>
               
             </levelColumn>
-            <levelColumn id='29'>
+            <levelColumn id='26'>
               
               <status>
                 0 
               </status>
               <fx>
-                <Toonz_columnFx id='30'>
+                <Toonz_columnFx id='27'>
                   
                   <params>
                     </params>
@@ -712,18 +685,18 @@
               </fx>
               
             </levelColumn>
-            <levelColumn id='31'>
+            <levelColumn id='28'>
               
               <status>
                 0 
               </status>
               <cells>
                 <cell>
-                  0 48 <level id='17'/>0001 0 
+                  0 48 <level id='10'/>0001 0 
                 </cell>
                 </cells>
               <fx>
-                <Toonz_columnFx id='32'>
+                <Toonz_columnFx id='29'>
                   
                   <params>
                     </params>
@@ -750,18 +723,29 @@
               </fx>
               
             </levelColumn>
-            <levelColumn id='33'>
+            <levelColumn id='30'>
               
               <status>
                 0 
               </status>
               <cells>
                 <cell>
-                  0 48 <level id='16'/>0001 0 
+                  0 48 <level id='31'>
+                    InbetC_1 
+                    <info dpix="175.200000" dpiy="175.200000"/>
+                    <path>
+                      "+inputs\\061\\InbetC.tlv"
+                    </path>
+                    <scannedPath>
+                      "+inputs\\061\\InbetC..jpg"
+                    </scannedPath>
+                    
+                  </level>
+                  0001 0 
                 </cell>
                 </cells>
               <fx>
-                <Toonz_columnFx id='34'>
+                <Toonz_columnFx id='32'>
                   
                   <params>
                     </params>
@@ -788,18 +772,29 @@
               </fx>
               
             </levelColumn>
-            <levelColumn id='35'>
+            <levelColumn id='33'>
               
               <status>
                 0 
               </status>
               <cells>
                 <cell>
-                  0 48 <level id='14'/>0001 0 
+                  0 48 <level id='34'>
+                    InbetA_1 
+                    <info dpix="175.200000" dpiy="175.200000"/>
+                    <path>
+                      "+inputs\\061\\InbetA.tlv"
+                    </path>
+                    <scannedPath>
+                      "+inputs\\061\\InbetA..jpg"
+                    </scannedPath>
+                    
+                  </level>
+                  0001 0 
                 </cell>
                 </cells>
               <fx>
-                <Toonz_columnFx id='36'>
+                <Toonz_columnFx id='35'>
                   
                   <params>
                     </params>
@@ -826,14 +821,25 @@
               </fx>
               
             </levelColumn>
-            <levelColumn id='37'>
+            <levelColumn id='36'>
               
               <status>
                 0 
               </status>
               <cells>
                 <cell>
-                  0 48 <level id='15'/>0001 0 
+                  0 48 <level id='37'>
+                    InbetB_1 
+                    <info dpix="175.200000" dpiy="175.200000"/>
+                    <path>
+                      "+inputs\\061\\InbetB.tlv"
+                    </path>
+                    <scannedPath>
+                      "+inputs\\061\\InbetB..jpg"
+                    </scannedPath>
+                    
+                  </level>
+                  0001 0 
                 </cell>
                 </cells>
               <fx>
@@ -871,7 +877,7 @@
               </status>
               <cells>
                 <cell>
-                  0 48 <level id='18'/>"-"0 
+                  0 48 <level id='11'/>"-"0 
                 </cell>
                 </cells>
               <fx>
@@ -1797,6 +1803,43 @@
                   <params>
                     <value>
                       <default>
+                        4.26667 
+                      </default>
+                      </value>
+                    <useSSE>
+                      1 1 
+                    </useSSE>
+                    </params>
+                  <ports>
+                    <Source>
+                      <Toonz_columnFx id='29'/>
+                    </Source>
+                    </ports>
+                  <dagNodePos>
+                    25156 24904 
+                  </dagNodePos>
+                  <numberId>
+                    1 
+                  </numberId>
+                  <name>
+                    Blur01 
+                  </name>
+                  <fxId>
+                    Blur01 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </STD_blurFx>
+                
+              </fxnode>
+              <fxnode>
+                <STD_blurFx id='57'>
+                  
+                  <params>
+                    <value>
+                      <default>
                         2.66667 
                       </default>
                       </value>
@@ -1806,7 +1849,7 @@
                     </params>
                   <ports>
                     <Source>
-                      <Toonz_columnFx id='34'/>
+                      <Toonz_columnFx id='32'/>
                     </Source>
                     </ports>
                   <dagNodePos>
@@ -1829,7 +1872,7 @@
                 
               </fxnode>
               <fxnode>
-                <STD_blurFx id='57'>
+                <STD_blurFx id='58'>
                   
                   <params>
                     <value>
@@ -1857,43 +1900,6 @@
                   </name>
                   <fxId>
                     Blur02 
-                  </fxId>
-                  <opened>
-                    0 
-                  </opened>
-                  
-                </STD_blurFx>
-                
-              </fxnode>
-              <fxnode>
-                <STD_blurFx id='58'>
-                  
-                  <params>
-                    <value>
-                      <default>
-                        4.26667 
-                      </default>
-                      </value>
-                    <useSSE>
-                      1 1 
-                    </useSSE>
-                    </params>
-                  <ports>
-                    <Source>
-                      <Toonz_columnFx id='32'/>
-                    </Source>
-                    </ports>
-                  <dagNodePos>
-                    25156 24904 
-                  </dagNodePos>
-                  <numberId>
-                    1 
-                  </numberId>
-                  <name>
-                    Blur01 
-                  </name>
-                  <fxId>
-                    Blur01 
                   </fxId>
                   <opened>
                     0 
@@ -2000,52 +2006,52 @@
                 <multFx id='55'/>
               </fxnode>
               <fxnode>
-                <STD_blurFx id='57'/>
+                <Toonz_columnFx id='25'/>
               </fxnode>
               <fxnode>
-                <STD_blurFx id='58'/>
+                <Toonz_columnFx id='19'/>
               </fxnode>
               <fxnode>
-                <Toonz_columnFx id='24'/>
-              </fxnode>
-              <fxnode>
-                <Toonz_columnFx id='26'/>
-              </fxnode>
-              <fxnode>
-                <Toonz_columnFx id='48'/>
-              </fxnode>
-              <fxnode>
-                <Toonz_columnFx id='46'/>
-              </fxnode>
-              <fxnode>
-                <Toonz_columnFx id='52'/>
-              </fxnode>
-              <fxnode>
-                <Toonz_columnFx id='36'/>
-              </fxnode>
-              <fxnode>
-                <Toonz_columnFx id='42'/>
-              </fxnode>
-              <fxnode>
-                <Toonz_columnFx id='44'/>
-              </fxnode>
-              <fxnode>
-                <Toonz_columnFx id='54'/>
-              </fxnode>
-              <fxnode>
-                <Toonz_columnFx id='34'/>
-              </fxnode>
-              <fxnode>
-                <Toonz_columnFx id='50'/>
+                <Toonz_columnFx id='16'/>
               </fxnode>
               <fxnode>
                 <Toonz_columnFx id='22'/>
               </fxnode>
               <fxnode>
-                <Toonz_columnFx id='28'/>
+                <Toonz_columnFx id='27'/>
               </fxnode>
               <fxnode>
-                <Toonz_columnFx id='30'/>
+                <Toonz_columnFx id='32'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='35'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='46'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='42'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='50'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='44'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='52'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='48'/>
+              </fxnode>
+              <fxnode>
+                <Toonz_columnFx id='54'/>
+              </fxnode>
+              <fxnode>
+                <STD_blurFx id='56'/>
+              </fxnode>
+              <fxnode>
+                <STD_blurFx id='58'/>
               </fxnode>
               </terminal>
             <xsheet>
@@ -2097,11 +2103,11 @@
     <folder name="Cast" type="default">
       <folder name="061">
         <levels>
-          <level id='10'/><level id='12'/><level id='14'/><level id='15'/><level id='17'/><level id='18'/><level id='11'/><level id='13'/><level id='16'/>
+          <level id='10'/><level id='11'/>
         </levels>
         </folder>
       <levels>
-        <childLevel id='19'/><level id='7'/><level id='8'/><level id='3'/><level id='2'/><level id='5'/><level id='9'/><level id='4'/><level id='1'/><level id='6'/>
+        <level id='1'/><level id='2'/><level id='3'/><level id='8'/><level id='9'/><level id='5'/><level id='6'/><level id='7'/><level id='4'/><childLevel id='12'/>
       </levels>
       </folder>
     <folder name="Audio">
@@ -2127,7 +2133,7 @@
             <ports>
               </ports>
             <dagNodePos>
-              25005 24755 
+              25000 25000 
             </dagNodePos>
             <numberId>
               0 
@@ -2154,7 +2160,7 @@
         </status>
         <cells>
           <cell>
-            0 48 <childLevel id='19'/>0001 1 
+            0 108 <level id='5'/>0001 0 
           </cell>
           </cells>
         <fx>
@@ -2165,7 +2171,7 @@
             <ports>
               </ports>
             <dagNodePos>
-              25005 24955 
+              25000 24950 
             </dagNodePos>
             <numberId>
               0 
@@ -2192,7 +2198,7 @@
         </status>
         <cells>
           <cell>
-            0 108 <level id='5'/>0001 0 
+            0 108 <level id='4'/>0001 0 
           </cell>
           </cells>
         <fx>
@@ -2203,7 +2209,7 @@
             <ports>
               </ports>
             <dagNodePos>
-              25005 24505 
+              25000 24900 
             </dagNodePos>
             <numberId>
               0 
@@ -2230,7 +2236,7 @@
         </status>
         <cells>
           <cell>
-            0 108 <level id='4'/>0001 0 
+            0 108 <level id='3'/>0001 0 
           </cell>
           </cells>
         <fx>
@@ -2241,7 +2247,7 @@
             <ports>
               </ports>
             <dagNodePos>
-              25005 24705 
+              25000 24850 
             </dagNodePos>
             <numberId>
               0 
@@ -2264,13 +2270,8 @@
       <levelColumn id='70'>
         
         <status>
-          3 
+          0 
         </status>
-        <cells>
-          <cell>
-            0 108 <level id='3'/>0001 0 
-          </cell>
-          </cells>
         <fx>
           <Toonz_columnFx id='71'>
             
@@ -2278,9 +2279,6 @@
               </params>
             <ports>
               </ports>
-            <dagNodePos>
-              25005 24805 
-            </dagNodePos>
             <numberId>
               0 
             </numberId>
@@ -2304,6 +2302,11 @@
         <status>
           0 
         </status>
+        <cells>
+          <cell>
+            0 108 <level id='10'/>0001 0 
+          </cell>
+          </cells>
         <fx>
           <Toonz_columnFx id='73'>
             
@@ -2311,6 +2314,9 @@
               </params>
             <ports>
               </ports>
+            <dagNodePos>
+              25000 24800 
+            </dagNodePos>
             <numberId>
               0 
             </numberId>
@@ -2336,7 +2342,7 @@
         </status>
         <cells>
           <cell>
-            0 108 <level id='17'/>0001 0 
+            0 108 <level id='9'/>0001 0 
           </cell>
           </cells>
         <fx>
@@ -2347,7 +2353,7 @@
             <ports>
               </ports>
             <dagNodePos>
-              25005 24856 
+              25000 24750 
             </dagNodePos>
             <numberId>
               0 
@@ -2374,7 +2380,7 @@
         </status>
         <cells>
           <cell>
-            0 108 <level id='9'/>0001 0 
+            0 108 <level id='6'/>0001 0 
           </cell>
           </cells>
         <fx>
@@ -2385,7 +2391,7 @@
             <ports>
               </ports>
             <dagNodePos>
-              25005 24905 
+              25000 24700 
             </dagNodePos>
             <numberId>
               0 
@@ -2406,44 +2412,6 @@
         
       </levelColumn>
       <levelColumn id='78'>
-        
-        <status>
-          0 
-        </status>
-        <cells>
-          <cell>
-            0 108 <level id='6'/>0001 0 
-          </cell>
-          </cells>
-        <fx>
-          <Toonz_columnFx id='79'>
-            
-            <params>
-              </params>
-            <ports>
-              </ports>
-            <dagNodePos>
-              25005 24655 
-            </dagNodePos>
-            <numberId>
-              0 
-            </numberId>
-            <name>
-              LevelColumn 
-            </name>
-            <fxId>
-              "" 
-            </fxId>
-            <opened>
-              0 
-            </opened>
-            
-          </Toonz_columnFx>
-          
-        </fx>
-        
-      </levelColumn>
-      <levelColumn id='80'>
         
         <status>
           0 
@@ -2505,6 +2473,44 @@
           </cell>
           </cells>
         <fx>
+          <Toonz_columnFx id='79'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25000 24650 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='80'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 108 <level id='8'/>0001 0 
+          </cell>
+          </cells>
+        <fx>
           <Toonz_columnFx id='81'>
             
             <params>
@@ -2512,7 +2518,7 @@
             <ports>
               </ports>
             <dagNodePos>
-              25005 24605 
+              25000 24600 
             </dagNodePos>
             <numberId>
               0 
@@ -2535,11 +2541,11 @@
       <levelColumn id='82'>
         
         <status>
-          0 
+          1 
         </status>
         <cells>
           <cell>
-            0 108 <level id='8'/>0001 0 
+            0 108 <level id='11'/>"-"0 
           </cell>
           </cells>
         <fx>
@@ -2550,7 +2556,7 @@
             <ports>
               </ports>
             <dagNodePos>
-              25005 24555 
+              25000 24550 
             </dagNodePos>
             <numberId>
               0 
@@ -2573,13 +2579,8 @@
       <levelColumn id='84'>
         
         <status>
-          1 
+          0 
         </status>
-        <cells>
-          <cell>
-            0 108 <level id='18'/>"-"0 
-          </cell>
-          </cells>
         <fx>
           <Toonz_columnFx id='85'>
             
@@ -2587,9 +2588,6 @@
               </params>
             <ports>
               </ports>
-            <dagNodePos>
-              25005 24455 
-            </dagNodePos>
             <numberId>
               0 
             </numberId>
@@ -2761,36 +2759,6 @@
       <levelColumn id='96'>
         
         <status>
-          0 
-        </status>
-        <fx>
-          <Toonz_columnFx id='97'>
-            
-            <params>
-              </params>
-            <ports>
-              </ports>
-            <numberId>
-              0 
-            </numberId>
-            <name>
-              LevelColumn 
-            </name>
-            <fxId>
-              "" 
-            </fxId>
-            <opened>
-              0 
-            </opened>
-            
-          </Toonz_columnFx>
-          
-        </fx>
-        
-      </levelColumn>
-      <levelColumn id='98'>
-        
-        <status>
           3 
         </status>
         <cells>
@@ -2799,14 +2767,14 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='99'>
+          <Toonz_columnFx id='97'>
             
             <params>
               </params>
             <ports>
               </ports>
             <dagNodePos>
-              25005 25005 
+              25000 24500 
             </dagNodePos>
             <numberId>
               0 
@@ -2984,7 +2952,7 @@
           </default>
           </sc>
         <nodePos>
-          24620 25050 
+          24620 25300 
         </nodePos>
         </pegbar>
       <pegbar id="Col3">
@@ -3015,7 +2983,7 @@
           </default>
           </sc>
         <nodePos>
-          24620 25300 
+          24620 25350 
         </nodePos>
         </pegbar>
       <pegbar id="Col4">
@@ -3046,7 +3014,7 @@
           </default>
           </sc>
         <nodePos>
-          24620 25350 
+          24620 25400 
         </nodePos>
         </pegbar>
       <pegbar id="Col5">
@@ -3077,7 +3045,7 @@
           </default>
           </sc>
         <nodePos>
-          24620 25400 
+          1.234e+009 5.678e+009 
         </nodePos>
         </pegbar>
       <pegbar id="Col6">
@@ -3108,41 +3076,10 @@
           </default>
           </sc>
         <nodePos>
-          1.234e+009 5.678e+009 
-        </nodePos>
-        </pegbar>
-      <pegbar id="Col7">
-        <parent handle="B" id="Table" parentHandle="B">
-          </parent>
-        <isOpened>
-          0 
-        </isOpened>
-        <center>
-          0 0 0 0 
-        </center>
-        <status>
-          0 
-        </status>
-        <sx>
-          <default>
-            1 
-          </default>
-          </sx>
-        <sy>
-          <default>
-            1 
-          </default>
-          </sy>
-        <sc>
-          <default>
-            1 
-          </default>
-          </sc>
-        <nodePos>
           24620 25000 
         </nodePos>
         </pegbar>
-      <pegbar id="Col8">
+      <pegbar id="Col7">
         <parent handle="B" id="Table" parentHandle="B">
           </parent>
         <isOpened>
@@ -3193,7 +3130,7 @@
           24620 25250 
         </nodePos>
         </pegbar>
-      <pegbar id="Col9">
+      <pegbar id="Col8">
         <parent handle="B" id="Table" parentHandle="B">
           </parent>
         <isOpened>
@@ -3224,7 +3161,7 @@
           24620 25200 
         </nodePos>
         </pegbar>
-      <pegbar id="Col10">
+      <pegbar id="Col9">
         <parent handle="B" id="Table" parentHandle="B">
           </parent>
         <isOpened>
@@ -3378,7 +3315,7 @@
           24620 25150 
         </nodePos>
         </pegbar>
-      <pegbar id="Col11">
+      <pegbar id="Col10">
         <parent handle="B" id="Table" parentHandle="B">
           </parent>
         <isOpened>
@@ -3409,7 +3346,7 @@
           24620 25100 
         </nodePos>
         </pegbar>
-      <pegbar id="Col12">
+      <pegbar id="Col11">
         <parent handle="B" id="Table" parentHandle="B">
           </parent>
         <isOpened>
@@ -3438,6 +3375,37 @@
           </sc>
         <nodePos>
           24620 24950 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col12">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          1.234e+009 5.678e+009 
         </nodePos>
         </pegbar>
       <pegbar id="Col13">
@@ -3623,37 +3591,6 @@
           </default>
           </sc>
         <nodePos>
-          1.234e+009 5.678e+009 
-        </nodePos>
-        </pegbar>
-      <pegbar id="Col19">
-        <parent handle="B" id="Table" parentHandle="B">
-          </parent>
-        <isOpened>
-          0 
-        </isOpened>
-        <center>
-          0 0 0 0 
-        </center>
-        <status>
-          0 
-        </status>
-        <sx>
-          <default>
-            1 
-          </default>
-          </sx>
-        <sy>
-          <default>
-            1 
-          </default>
-          </sy>
-        <sc>
-          <default>
-            1 
-          </default>
-          </sc>
-        <nodePos>
           24620 25500 
         </nodePos>
         </pegbar>
@@ -3664,7 +3601,7 @@
     <fxnodes>
       <internal>
         <fxnode>
-          <multFx id='100'>
+          <multFx id='98'>
             
             <params>
               <value>
@@ -3678,13 +3615,13 @@
               </params>
             <ports>
               <Source1>
-                <Toonz_columnFx id='85'/>
+                <Toonz_columnFx id='83'/>
               </Source1>
               <Source2>
                 </Source2>
               </ports>
             <dagNodePos>
-              25155 24455 
+              25120 24550 
             </dagNodePos>
             <numberId>
               1 
@@ -3703,7 +3640,7 @@
           
         </fxnode>
         <fxnode>
-          <STD_blurFx id='101'>
+          <STD_blurFx id='99'>
             
             <params>
               <value>
@@ -3717,11 +3654,11 @@
               </params>
             <ports>
               <Source>
-                <Toonz_columnFx id='75'/>
+                <Toonz_columnFx id='73'/>
               </Source>
               </ports>
             <dagNodePos>
-              25155 24856 
+              25120 24800 
             </dagNodePos>
             <numberId>
               3 
@@ -3740,7 +3677,7 @@
           
         </fxnode>
         <fxnode>
-          <STD_blurFx id='102'>
+          <STD_blurFx id='100'>
             
             <params>
               <value>
@@ -3754,48 +3691,11 @@
               </params>
             <ports>
               <Source>
-                <Toonz_columnFx id='83'/>
+                <Toonz_columnFx id='75'/>
               </Source>
               </ports>
             <dagNodePos>
-              25155 24555 
-            </dagNodePos>
-            <numberId>
-              1 
-            </numberId>
-            <name>
-              Blur01 
-            </name>
-            <fxId>
-              Blur01 
-            </fxId>
-            <opened>
-              0 
-            </opened>
-            
-          </STD_blurFx>
-          
-        </fxnode>
-        <fxnode>
-          <STD_blurFx id='103'>
-            
-            <params>
-              <value>
-                <default>
-                  1.6 
-                </default>
-                </value>
-              <useSSE>
-                1 1 
-              </useSSE>
-              </params>
-            <ports>
-              <Source>
-                <Toonz_columnFx id='77'/>
-              </Source>
-              </ports>
-            <dagNodePos>
-              25155 24905 
+              25120 24750 
             </dagNodePos>
             <numberId>
               2 
@@ -3814,7 +3714,44 @@
           
         </fxnode>
         <fxnode>
-          <STD_glowFx id='104'>
+          <STD_blurFx id='101'>
+            
+            <params>
+              <value>
+                <default>
+                  1.6 
+                </default>
+                </value>
+              <useSSE>
+                1 1 
+              </useSSE>
+              </params>
+            <ports>
+              <Source>
+                <Toonz_columnFx id='81'/>
+              </Source>
+              </ports>
+            <dagNodePos>
+              25120 24600 
+            </dagNodePos>
+            <numberId>
+              1 
+            </numberId>
+            <name>
+              Blur01 
+            </name>
+            <fxId>
+              Blur01 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </STD_blurFx>
+          
+        </fxnode>
+        <fxnode>
+          <STD_glowFx id='102'>
             
             <params>
               <value>
@@ -3857,14 +3794,14 @@
               </params>
             <ports>
               <Light>
-                <Toonz_xsheetFx id='105'>
+                <Toonz_xsheetFx id='103'>
                   
                   <params>
                     </params>
                   <ports>
                     </ports>
                   <dagNodePos>
-                    25120 25000 
+                    25240 24750 
                   </dagNodePos>
                   <numberId>
                     0 
@@ -3883,11 +3820,11 @@
                 
               </Light>
               <Source>
-                <Toonz_xsheetFx id='105'/>
+                <Toonz_xsheetFx id='103'/>
               </Source>
               </ports>
             <dagNodePos>
-              25270 24900 
+              25360 24750 
             </dagNodePos>
             <numberId>
               1 
@@ -3908,16 +3845,7 @@
         </internal>
       <terminal>
         <fxnode>
-          <multFx id='100'/>
-        </fxnode>
-        <fxnode>
-          <STD_blurFx id='101'/>
-        </fxnode>
-        <fxnode>
-          <STD_blurFx id='102'/>
-        </fxnode>
-        <fxnode>
-          <STD_blurFx id='103'/>
+          <multFx id='98'/>
         </fxnode>
         <fxnode>
           <Toonz_columnFx id='63'/>
@@ -3929,36 +3857,42 @@
           <Toonz_columnFx id='65'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='71'/>
-        </fxnode>
-        <fxnode>
           <Toonz_columnFx id='67'/>
         </fxnode>
         <fxnode>
           <Toonz_columnFx id='79'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='81'/>
+          <Toonz_columnFx id='77'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='99'/>
+          <Toonz_columnFx id='97'/>
+        </fxnode>
+        <fxnode>
+          <STD_blurFx id='99'/>
+        </fxnode>
+        <fxnode>
+          <STD_blurFx id='100'/>
+        </fxnode>
+        <fxnode>
+          <STD_blurFx id='101'/>
         </fxnode>
         </terminal>
       <xsheet>
-        <Toonz_xsheetFx id='105'/>
+        <Toonz_xsheetFx id='103'/>
       </xsheet>
       <output>
-        <Toonz_outputFx id='106'>
+        <Toonz_outputFx id='104'>
           
           <params>
             </params>
           <ports>
             <source>
-              <STD_glowFx id='104'/>
+              <STD_glowFx id='102'/>
             </source>
             </ports>
           <dagNodePos>
-            25235 24995 
+            25480 24750 
           </dagNodePos>
           <numberId>
             0 
@@ -3997,5 +3931,8 @@
     "| #12  05 5 16   09:09     MBP13-WIN   Fujita          |"
     "| #13  05 5 16   10:00     MBP13-WIN   Fujita          |"
     "| #14  05 5 16   10:03     MBP13-WIN   Fujita          |"
+    "| #15  07 6 16   21:12     DESKTOP-P3TFSatoshi Nomura  |"
+    "| #16  08 6 16   20:58     DESKTOP-8J44hakut           |"
+    "| #17  10 6 16   22:45     ANDO-D-MASAK健太郎             |"
   </history>
   </tnz>

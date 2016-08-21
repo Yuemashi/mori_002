@@ -256,7 +256,7 @@
       <despeckling value="2"/>
       <aaValue value="70"/>
       <closestField value="10.000000"/>
-      <fdg name="fld_10_4mm_acme"/>
+      <fdg name=""/>
       </cleanupParameters>
     <scanParameters>
       <paper fmt=""/>
@@ -352,7 +352,7 @@
         "LO用紙ビスタサイズ(150DPI)"
         <info dpix="150.000000" dpiy="150.000000"/>
         <path>
-          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\LO用紙ビスタサイズ(150DPI).png"
+          "+inputs\\LO用紙ビスタサイズ(150DPI).png"
         </path>
         
       </level>
@@ -360,7 +360,7 @@
         A 
         <info dpix="150.000000" dpiy="150.000000"/>
         <path>
-          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\007\\A..jpg"
+          "+inputs\\007\\A..jpg"
         </path>
         
       </level>
@@ -615,5 +615,6 @@
     "| #    DATE:       Time:   MACHINE:    USER:           |"
     "| #1   02 4 16   18:55     ANDO-D-MASAK健太郎             |"
     "| #2   02 4 16   21:50     DESKTOP-P3TFSatoshi Nomura  |"
+    "| #3   05 6 16   16:53     DESKTOP-8B5Cjohns           |"
   </history>
   </tnz>

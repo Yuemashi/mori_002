@@ -49,10 +49,12 @@
   </cleanupPalette>
 <transform rotate="90"/>
 <lineProcessing autoAdjust="0" mode="color" sharpness="90.000000"/>
+<noAntialias/>
+<MLAA/>
 <despeckling value="2"/>
 <aaValue value="70"/>
 <closestField value="10.000000"/>
-<fdg name="fld_10_4mm_acme"/>
+<fdg name=""/>
 <path>
-  "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\050"
+  "+inputs\\050"
 </path>

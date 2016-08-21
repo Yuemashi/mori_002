@@ -1,4 +1,5 @@
-<palette name="">
+<palette id='1'>
+  
   <version>
     71 0 
   </version>
@@ -13,7 +14,7 @@
       color 3 255 0 0 255 
     </style>
     <style>
-      _1 color3 3 8 0 255 255 
+      _1 color3 3 55 33 38 255 
     </style>
     <style>
       "肌N"3 253 232 215 255 
@@ -143,4 +144,5 @@
       </indices>
       </page>
     </stylepages>
-  </palette>
+  
+</palette>

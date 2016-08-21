@@ -1,0 +1,63 @@
+<version>
+  1 19 
+</version>
+<cleanupCamera>
+  <cameraSize>
+    11.6933 8.26667 
+  </cameraSize>
+  <cameraRes>
+    1754 1240 
+  </cameraRes>
+  <cameraXPrevalence>
+    1 
+  </cameraXPrevalence>
+  <interestRect>
+    0 0 -1 -1 
+  </interestRect>
+  </cleanupCamera>
+<cleanupPalette>
+  <version>
+    71 0 
+  </version>
+  <styles>
+    <style>
+      color_0 3 255 255 255 0 
+    </style>
+    <style>
+      color_1 2002 0 0 0 255 0 0 0 255 0 50 70 10 
+    </style>
+    <style>
+      color 2001 255 0 0 255 255 0 0 255 0 50 120 90 
+    </style>
+    <style>
+      color 2001 0 0 255 255 0 0 255 255 0 50 120 90 
+    </style>
+    <style>
+      color 2001 0 255 0 255 0 255 0 255 0 50 60 90 
+    </style>
+    </styles>
+  <stylepages>
+    <page>
+      <name>
+        colors 
+      </name>
+      <indices>
+        0 1 2 3 
+      </indices>
+      </page>
+    </stylepages>
+  <shortcuts>
+    0 1 -1 -1 -1 -1 -1 -1 -1 -1 
+  </shortcuts>
+  </cleanupPalette>
+<transform rotate="270"/>
+<lineProcessing autoAdjust="0" mode="color" sharpness="90.000000"/>
+<noAntialias/>
+<MLAA/>
+<despeckling value="2"/>
+<aaValue value="70"/>
+<closestField value="10.000000"/>
+<fdg name="fld_10_4mm_acme"/>
+<path>
+  "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\084"
+</path>

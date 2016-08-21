@@ -54,7 +54,7 @@
           24 
         </fps>
         <path>
-          "C:\\OpenToonz 1.0 stuff\\projects\\S1\\outputs\\104.avi"
+          "+outputs\\104.avi"
         </path>
         <bpp>
           32 
@@ -144,7 +144,7 @@
         </output>
       <output name="preview">
         <range>
-          0 0 
+          0 143 
         </range>
         <step>
           1 
@@ -292,9 +292,9 @@
       <despeckling value="2"/>
       <aaValue value="70"/>
       <closestField value="10.000000"/>
-      <fdg name="fld_10_4mm_acme"/>
+      <fdg name=""/>
       <path>
-        "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\104"
+        "+inputs\\104"
       </path>
       </cleanupParameters>
     <scanParameters>
@@ -391,7 +391,7 @@
         "LO用紙ビスタサイズ(150DPI)"
         <info dpix="150.000000" dpiy="150.000000" whiteTransp="1"/>
         <path>
-          "C:\\OpenToonz 1.0 stuff\\projects\\S1\\inputs\\LO用紙ビスタサイズ(150DPI).png"
+          "+inputs\\LO用紙ビスタサイズ(150DPI).png"
         </path>
         
       </level>
@@ -399,7 +399,7 @@
         Co104BG 
         <info dpix="150.000428" dpiy="150.000428"/>
         <path>
-          "C:\\OpenToonz 1.0 stuff\\projects\\S1\\inputs\\104\\Co104BG.jpg"
+          "+inputs\\104\\Co104BG.jpg"
         </path>
         
       </level>
@@ -407,7 +407,7 @@
         KeyA 
         <info dpix="150.000428" dpiy="150.000428" whiteTransp="1"/>
         <path>
-          "C:\\OpenToonz 1.0 stuff\\projects\\S1\\inputs\\104\\KeyA..jpg"
+          "+inputs\\104\\KeyA..jpg"
         </path>
         
       </level>
@@ -415,7 +415,7 @@
         KeyC 
         <info dpix="150.000428" dpiy="150.000428" whiteTransp="1"/>
         <path>
-          "C:\\OpenToonz 1.0 stuff\\projects\\S1\\inputs\\104\\KeyC..jpg"
+          "+inputs\\104\\KeyC..jpg"
         </path>
         
       </level>
@@ -423,7 +423,7 @@
         KeyD 
         <info dpix="150.000428" dpiy="150.000428" whiteTransp="1"/>
         <path>
-          "C:\\OpenToonz 1.0 stuff\\projects\\S1\\inputs\\104\\KeyD..jpg"
+          "+inputs\\104\\KeyD..jpg"
         </path>
         
       </level>
@@ -431,10 +431,10 @@
         InbetA 
         <info dpix="175.400000" dpiy="175.400000"/>
         <path>
-          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\104\\InbetA.tlv"
+          "+inputs\\104\\InbetA.tlv"
         </path>
         <scannedPath>
-          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\104\\InbetA..jpg"
+          "+inputs\\104\\InbetA..jpg"
         </scannedPath>
         
       </level>
@@ -442,10 +442,10 @@
         InbetB 
         <info dpix="175.400000" dpiy="175.400000"/>
         <path>
-          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\104\\InbetB.tlv"
+          "+inputs\\104\\InbetB.tlv"
         </path>
         <scannedPath>
-          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\104\\InbetB..jpg"
+          "+inputs\\104\\InbetB..jpg"
         </scannedPath>
         
       </level>
@@ -453,10 +453,10 @@
         InbetC 
         <info dpix="175.400000" dpiy="175.400000"/>
         <path>
-          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\104\\InbetC.tlv"
+          "+inputs\\104\\InbetC.tlv"
         </path>
         <scannedPath>
-          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\104\\InbetC..jpg"
+          "+inputs\\104\\InbetC..jpg"
         </scannedPath>
         
       </level>
@@ -464,10 +464,10 @@
         InbetD 
         <info dpix="175.400000" dpiy="175.400000"/>
         <path>
-          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\104\\InbetD.tlv"
+          "+inputs\\104\\InbetD.tlv"
         </path>
         <scannedPath>
-          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\104\\InbetD..jpg"
+          "+inputs\\104\\InbetD..jpg"
         </scannedPath>
         
       </level>
@@ -475,10 +475,10 @@
         InbetE 
         <info dpix="150.000000" dpiy="150.000000"/>
         <path>
-          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\104\\InbetE.tlv"
+          "+inputs\\104\\InbetE.tlv"
         </path>
         <scannedPath>
-          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\inputs\\104\\InbetE..jpg"
+          "+inputs\\104\\InbetE..jpg"
         </scannedPath>
         
       </level>
@@ -486,7 +486,7 @@
         BG 
         <info dpix="150.000000" dpiy="150.000000"/>
         <path>
-          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\extras\\107\\BG..png"
+          "+extras\\107\\BG..png"
         </path>
         
       </level>
@@ -494,7 +494,7 @@
         G003 
         <info dpix="300.000000" dpiy="300.000000"/>
         <path>
-          "\\\\winty\\Product04\\OpenToonz_1.0_stuff\\projects\\S1\\extras\\effects\\G003.png"
+          "+extras\\effects\\G003.png"
         </path>
         
       </level>
@@ -502,7 +502,7 @@
     </levels>
     <folder name="Cast" type="default">
       <levels>
-        <level id='10'/><level id='2'/><level id='3'/><level id='7'/><level id='11'/><level id='4'/><level id='5'/><level id='8'/><level id='9'/><level id='12'/><level id='6'/><level id='1'/>
+        <level id='5'/><level id='9'/><level id='7'/><level id='8'/><level id='6'/><level id='10'/><level id='12'/><level id='11'/><level id='1'/><level id='2'/><level id='3'/><level id='4'/>
       </levels>
       </folder>
     <folder name="Audio">
@@ -1835,13 +1835,10 @@
           <multFx id='41'/>
         </fxnode>
         <fxnode>
-          <STD_blurFx id='42'/>
+          <Toonz_columnFx id='30'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='14'/>
-        </fxnode>
-        <fxnode>
-          <Toonz_columnFx id='18'/>
+          <Toonz_columnFx id='22'/>
         </fxnode>
         <fxnode>
           <Toonz_columnFx id='20'/>
@@ -1850,25 +1847,28 @@
           <Toonz_columnFx id='32'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='22'/>
+          <Toonz_columnFx id='28'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='28'/>
+          <Toonz_columnFx id='14'/>
         </fxnode>
         <fxnode>
           <Toonz_columnFx id='16'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='30'/>
+          <Toonz_columnFx id='26'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='26'/>
+          <Toonz_columnFx id='18'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='40'/>
         </fxnode>
         <fxnode>
           <Toonz_columnFx id='34'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='40'/>
+          <STD_blurFx id='42'/>
         </fxnode>
         </terminal>
       <xsheet>
@@ -1931,5 +1931,8 @@
     "| #19  04 5 16   23:20     NEOSHIMESABASHIMESABA       |"
     "| #20  05 5 16   03:49     ASUS-ROGGR6 yuema           |"
     "| #21  05 5 16   04:38     ANDO-D-MASAK健太郎             |"
+    "| #22  10 6 16   16:44     DESKTOP-P3TFSatoshi Nomura  |"
+    "| #23  10 6 16   20:47     HAKUTO-SURFAhakut           |"
+    "| #24  14 6 16   17:10     ANDO-D-MASAK健太郎             |"
   </history>
   </tnz>

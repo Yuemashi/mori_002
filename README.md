@@ -15,6 +15,10 @@ This repository includes:
  
 This repository does NOT include:
  - Voice and Sounds, Musics
+
+ ## The final video is avaliable!
+ 
+ [![Final video](http://img.youtube.com/vi/2KTJUhluFiU/0.jpg)](https://www.youtube.com/watch?v=2KTJUhluFiU)
  
  ## Examples
  
@@ -30,7 +34,7 @@ This repository does NOT include:
  ## Install
  Clone repository or download files. And copy for your OpenToonz stuff folder. Default location of OpenToonz stuff folder is "C:\OpenToonz 1.0 stuff".
  
- ### Path problem(fixed)
+ ### Path problem(Fixed!!)
  ~~We had been put stuff folder at sharing folder. The original path is "\\winty\Product04\OpenToonz 1.0 stuff". All scene includes this path. You should change path to your location.
  OpenToonz scene files are included at "\projects\S1\scenes", which are plane XML document. You can replace path easily using some text replacing tools (Ex. \\\\winty\\Product04\\ to c:\\)~~
  
